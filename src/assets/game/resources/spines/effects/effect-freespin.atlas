@@ -1,122 +1,90 @@
 
 effect-freespin.webp
-size: 489,561
+size: 648,413
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-BG
+1
   rotate: false
-  xy: 2, 269
-  size: 484, 290
-  orig: 486, 292
-  offset: 1, 1
-  index: -1
-dark light
-  rotate: false
-  xy: 306, 17
-  size: 169, 168
-  orig: 215, 215
-  offset: 25, 21
-  index: -1
-freespin
-  rotate: false
-  xy: 175, 187
-  size: 312, 80
-  orig: 312, 80
+  xy: 187, 0
+  size: 103, 107
+  orig: 103, 107
   offset: 0, 0
   index: -1
-hand L
+2
   rotate: true
-  xy: 175, 14
-  size: 171, 129
-  orig: 171, 129
+  xy: 376, 17
+  size: 90, 115
+  orig: 90, 115
   offset: 0, 0
   index: -1
-hand R
+3
   rotate: true
-  xy: 2, 2
-  size: 265, 171
-  orig: 265, 171
+  xy: 80, 3
+  size: 78, 105
+  orig: 78, 105
   offset: 0, 0
   index: -1
-
-effect-bigwin5.webp
-size: 707,443
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-general/Layer 1
+4
   rotate: false
-  xy: 2, 111
-  size: 541, 330
-  orig: 543, 332
-  offset: 1, 1
-  index: -1
-general/Rectangle 106
-  rotate: true
-  xy: 545, 129
-  size: 312, 76
-  orig: 490, 78
-  offset: 80, 1
-  index: -1
-general/brush
-  rotate: false
-  xy: 2, 2
-  size: 494, 107
-  orig: 496, 109
-  offset: 1, 1
-  index: -1
-general/cloud1
-  rotate: false
-  xy: 545, 5
-  size: 122, 122
-  orig: 124, 124
-  offset: 1, 1
-  index: -1
-general/cloud2
-  rotate: true
-  xy: 623, 298
-  size: 143, 82
-  orig: 145, 84
-  offset: 1, 1
-  index: -1
-
-effect-freespin3.webp
-size: 614,484
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-highlight/circle light
-  rotate: true
-  xy: 2, 2
-  size: 480, 496
-  orig: 515, 509
-  offset: 29, 6
-  index: -1
-highlight/highlight
-  rotate: false
-  xy: 500, 17
-  size: 112, 465
-  orig: 137, 475
-  offset: 12, 5
-  index: -1
-
-effect-freespin4.webp
-size: 156,104
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-light/circle light
-  rotate: false
-  xy: 2, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 292, 14
+  size: 82, 93
+  orig: 82, 93
   offset: 0, 0
   index: -1
-light/point light
+5
+  rotate: true
+  xy: 0, 0
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 493, 33
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+7
   rotate: false
-  xy: 104, 52
-  size: 50, 50
-  orig: 54, 55
-  offset: 2, 3
+  xy: 563, 60
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 563, 12
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 603, 21
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 151, 109
+  size: 494, 304
+  orig: 494, 304
+  offset: 0, 0
+  index: -1
+text-freespins
+  rotate: true
+  xy: 0, 83
+  size: 330, 86
+  orig: 339, 94
+  offset: 4, 4
+  index: -1
+text-freespins-glow
+  rotate: true
+  xy: 88, 108
+  size: 305, 61
+  orig: 307, 63
+  offset: 1, 1
   index: -1
