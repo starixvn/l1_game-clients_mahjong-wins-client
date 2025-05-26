@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "ac1okaG2W74eKl1eeqpgJGlms+A",
+	"hash": "RF8TjLZBwtRMvuhdGdi6TjWpfUg",
 	"spine": "3.8.99",
 	"x": -55,
 	"y": -55,
@@ -233,7 +233,17 @@
 					{ "name": null }
 				]
 			},
+			"symbol-9_circle": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
 			"symbol-9_optical_flares": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"symbol-9_particle/symbol-9_particle_00": {
 				"attachment": [
 					{ "name": null }
 				]
