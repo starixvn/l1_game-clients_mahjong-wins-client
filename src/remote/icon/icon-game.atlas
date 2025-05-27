@@ -131,7 +131,7 @@ topcolor
   offset: 0, 0
   index: -1
 
-icon-game2.png
+icon-game2.webp
 size: 1702,1162
 format: RGBA8888
 filter: Linear,Linear
