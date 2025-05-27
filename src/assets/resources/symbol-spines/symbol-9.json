@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "RF8TjLZBwtRMvuhdGdi6TjWpfUg",
+	"hash": "AM2WvATYDMqV/DQi31++vpQfBKA",
 	"spine": "3.8.99",
 	"x": -55,
 	"y": -55,
@@ -101,7 +101,9 @@
 		"slots": {
 			"hu_light_sweep/hu_light_sweep_00": {
 				"color": [
-					{ "color": "ffc0c0d1" }
+					{ "color": "ffc0c0f0", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffc0c0f0", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9, "color": "ffc0c000" }
 				],
 				"attachment": [
 					{ "name": "hu_light_sweep/hu_light_sweep_00" },
