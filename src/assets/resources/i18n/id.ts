@@ -29,6 +29,7 @@ export const languages = {
         "enter_your_name": "Masukkan nama panggilan Anda.",
         "even_win": "GENAP MENANG",
         "from": "dari",
+        "game_category_new_releases": "Baru Rilis",
         "game_category_ph_1": "Semua Permainan",
         "game_category_ph_2": "Spesial Pinoy",
         "game_category_ph_3": "Permainan Slot",
@@ -41,7 +42,7 @@ export const languages = {
         "hot": "PANAS",
         "invalid_bet": "Taruhan Tidak Valid",
         "invalid_deal_hands": "Jumlah Tangan tidak valid",
-        "invalid_free_spin": "Freespin tidak valid",
+        "invalid_free_spin": "Free Spin tidak valid",
         "invalid_position": "Posisi Tidak Valid",
         "invalid_stake_level": "Level Taruhan Tidak Valid",
         "join_game": "Gabung\nPermainan",
@@ -265,9 +266,9 @@ export const languages = {
         "win_tumble_msg": "SELAMAT!",
         "you_win_free_spin": "Anda memenangkan"
     },
-    "WukongsRevenge": {
-        "game_icon_name": "Pembalasan Wukong",
-        "game_name": "Pembalasan Wukong"
+    "MahjongWins": {
+        "game_icon_name": "Mahjong Wins",
+        "game_name": "Mahjong Wins"
     }
 };
 

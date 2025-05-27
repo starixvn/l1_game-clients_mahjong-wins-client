@@ -29,6 +29,7 @@ export const languages = {
         "enter_your_name": "输入你的昵称。",
         "even_win": "双赢",
         "from": "從",
+        "game_category_new_releases": "新品发布",
         "game_category_ph_1": "所有游戏",
         "game_category_ph_2": "菲律宾特色游戏",
         "game_category_ph_3": "老虎机游戏",
@@ -265,9 +266,9 @@ export const languages = {
         "win_tumble_msg": "恭喜！",
         "you_win_free_spin": "您赢得"
     },
-    "WukongsRevenge": {
-        "game_icon_name": "悟空复仇",
-        "game_name": "悟空复仇"
+    "MahjongWins": {
+        "game_icon_name": "Mahjong Wins",
+        "game_name": "Mahjong Wins"
     }
 };
 

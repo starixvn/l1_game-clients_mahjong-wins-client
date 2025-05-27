@@ -29,6 +29,7 @@ export const languages = {
         "enter_your_name": "Enter your nickname.",
         "even_win": "EVEN WINS",
         "from": "from",
+        "game_category_new_releases": "New Releases",
         "game_category_ph_1": "All Games",
         "game_category_ph_2": "Pinoy Special",
         "game_category_ph_3": "Slot Games",
@@ -41,7 +42,7 @@ export const languages = {
         "hot": "Hot",
         "invalid_bet": "Invalid Bet",
         "invalid_deal_hands": "The number of Hands is invalid",
-        "invalid_free_spin": "Invalid Freespin ",
+        "invalid_free_spin": "Invalid Free Spin ",
         "invalid_position": "Invalid Position",
         "invalid_stake_level": "Invalid Stake level",
         "join_game": "Join Game",
@@ -265,9 +266,9 @@ export const languages = {
         "win_tumble_msg": "CONGRATULATION!",
         "you_win_free_spin": "You win"
     },
-    "WukongsRevenge": {
-        "game_icon_name": "Wukong's Revenge",
-        "game_name": "Wukong's Revenge"
+    "MahjongWins": {
+        "game_icon_name": "Mahjong Wins",
+        "game_name": "Mahjong Wins"
     }
 };
 

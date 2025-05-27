@@ -29,6 +29,7 @@ export const languages = {
         "enter_your_name": "กรอกชื่อเล่น",
         "even_win": "คู่ชนะ",
         "from": "จาก",
+        "game_category_new_releases": "เกมใหม่",
         "game_category_ph_1": "เกมทั้งหมด",
         "game_category_ph_2": "ปินอยพิเศษ",
         "game_category_ph_3": "เกมสล็อต",
@@ -265,9 +266,9 @@ export const languages = {
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_win_free_spin": "คุณชนะ"
     },
-    "WukongsRevenge": {
-        "game_icon_name": "การล้างแค้น\nของหงอคง",
-        "game_name": "การล้างแค้นของหงอคง"
+    "MahjongWins": {
+        "game_icon_name": "Mahjong Wins",
+        "game_name": "Mahjong Wins"
     }
 };
 

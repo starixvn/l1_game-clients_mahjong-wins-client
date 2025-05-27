@@ -29,6 +29,7 @@ export const languages = {
         "enter_your_name": "Nhập tên nhân vật",
         "even_win": "CHẴN THẮNG",
         "from": "Từ",
+        "game_category_new_releases": "Mới Ra Mắt",
         "game_category_ph_1": "Tất Cả",
         "game_category_ph_2": "Pinoy Games",
         "game_category_ph_3": "Slot Games",
@@ -41,7 +42,7 @@ export const languages = {
         "hot": "Hot",
         "invalid_bet": "Cược không hợp lệ",
         "invalid_deal_hands": "Số lượng tay bài không hợp lệ.",
-        "invalid_free_spin": "Lượt quay FreeSpin không hợp lệ.",
+        "invalid_free_spin": "Lượt quay Free Spin không hợp lệ.",
         "invalid_position": "Vị trí tay bài không đúng",
         "invalid_stake_level": "Mức cược không hợp lệ.",
         "join_game": "Vào Bàn",
@@ -265,9 +266,9 @@ export const languages = {
         "win_tumble_msg": "CHÚC MỪNG!",
         "you_win_free_spin": "Bạn đã thắng"
     },
-    "WukongsRevenge": {
-        "game_icon_name": "Ngộ Không Báo Thù",
-        "game_name": "Ngộ Không Báo Thù"
+    "MahjongWins": {
+        "game_icon_name": "Mahjong Wins",
+        "game_name": "Mahjong Wins"
     }
 };
 
