@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "/eM37Gp+JvkgyQvH4+UY/y92i78",
+	"hash": "6T+E7LwzhImLfVJFBbdQwXnQS5g",
 	"spine": "3.8.99",
 	"x": -75,
 	"y": -82.88,
@@ -18,9 +18,9 @@
 	{ "name": "optical_flares", "parent": "mahjong2", "y": 51 }
 ],
 "slots": [
+	{ "name": "mahjong_glow-1", "bone": "mahjong2", "attachment": "mahjong_glow-1", "blend": "additive" },
 	{ "name": "symbol-7", "bone": "mahjong2", "attachment": "symbol-7" },
 	{ "name": "symbol-7_pattern", "bone": "pattern", "attachment": "symbol-7_pattern" },
-	{ "name": "mahjong_glow-2", "bone": "mahjong2", "attachment": "mahjong_glow-2", "blend": "additive" },
 	{ "name": "cloud", "bone": "cloud", "attachment": "cloud" },
 	{ "name": "symbol-7_light_sweep/symbol-7_light_sweep_02", "bone": "mahjong2" },
 	{ "name": "optical_flares", "bone": "optical_flares", "attachment": "optical_flares", "blend": "additive" }
@@ -32,8 +32,8 @@
 			"cloud": {
 				"cloud": { "width": 150, "height": 150 }
 			},
-			"mahjong_glow-2": {
-				"mahjong_glow-2": { "y": 51, "width": 110, "height": 116 }
+			"mahjong_glow-1": {
+				"mahjong_glow-1": { "y": 51, "width": 110, "height": 110 }
 			},
 			"optical_flares": {
 				"optical_flares": { "width": 110, "height": 110 }
@@ -42,7 +42,6 @@
 				"symbol-7": { "y": 51, "width": 110, "height": 110 }
 			},
 			"symbol-7_light_sweep/symbol-7_light_sweep_02": {
-				"symbol-7_light_sweep/symbol-7_light_sweep_02": { "y": 51, "width": 110, "height": 110 },
 				"symbol-7_light_sweep/symbol-7_light_sweep_03": { "y": 51, "width": 110, "height": 110 },
 				"symbol-7_light_sweep/symbol-7_light_sweep_04": { "y": 51, "width": 110, "height": 110 },
 				"symbol-7_light_sweep/symbol-7_light_sweep_05": { "y": 51, "width": 110, "height": 110 },
@@ -51,9 +50,7 @@
 				"symbol-7_light_sweep/symbol-7_light_sweep_08": { "y": 51, "width": 110, "height": 110 },
 				"symbol-7_light_sweep/symbol-7_light_sweep_09": { "y": 51, "width": 110, "height": 110 },
 				"symbol-7_light_sweep/symbol-7_light_sweep_10": { "y": 51, "width": 110, "height": 110 },
-				"symbol-7_light_sweep/symbol-7_light_sweep_11": { "y": 51, "width": 110, "height": 110 },
-				"symbol-7_light_sweep/symbol-7_light_sweep_12": { "y": 51, "width": 110, "height": 110 },
-				"symbol-7_light_sweep/symbol-7_light_sweep_13": { "y": 51, "width": 110, "height": 110 }
+				"symbol-7_light_sweep/symbol-7_light_sweep_11": { "y": 51, "width": 110, "height": 110 }
 			},
 			"symbol-7_pattern": {
 				"symbol-7_pattern": { "width": 110, "height": 110 }
@@ -72,11 +69,7 @@
 					{ "time": 1, "color": "ffffff00" }
 				]
 			},
-			"mahjong_glow-2": {
-				"color": [
-					{ "time": 0.1, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.7667, "color": "ffffff00" }
-				],
+			"mahjong_glow-1": {
 				"attachment": [
 					{ "name": null }
 				]
@@ -127,7 +120,7 @@
 					{ "name": null }
 				]
 			},
-			"mahjong_glow-2": {
+			"mahjong_glow-1": {
 				"color": [
 					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.3333, "color": "ffffffdc" }
@@ -197,7 +190,7 @@
 					{ "name": null }
 				]
 			},
-			"mahjong_glow-2": {
+			"mahjong_glow-1": {
 				"attachment": [
 					{ "name": null }
 				]

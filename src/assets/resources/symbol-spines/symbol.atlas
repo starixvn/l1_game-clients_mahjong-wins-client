@@ -1,215 +1,215 @@
 
 symbol.webp
-size: 1508,777
+size: 1381,777
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Ingot_lf
   rotate: false
-  xy: 1406, 60
+  xy: 633, 27
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 Ingot_rt
   rotate: false
-  xy: 1452, 60
+  xy: 310, 175
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 Ingot_sparkle
-  rotate: false
-  xy: 1354, 57
+  rotate: true
+  xy: 1155, 120
   size: 50, 49
   orig: 50, 50
   offset: 0, 1
   index: -1
 Ingot_starglow_lf.rt
-  rotate: true
-  xy: 1305, 565
+  rotate: false
+  xy: 711, 339
   size: 100, 98
   orig: 110, 110
   offset: 2, 1
   index: -1
 Ingot_starglow_top
   rotate: false
-  xy: 1112, 149
+  xy: 126, 214
   size: 81, 81
   orig: 110, 110
   offset: 12, 28
   index: -1
 Ingot_top
-  rotate: true
-  xy: 1151, 363
+  rotate: false
+  xy: 342, 78
   size: 66, 40
   orig: 66, 40
   offset: 0, 0
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_00
-  rotate: true
-  xy: 350, 428
+  rotate: false
+  xy: 128, 444
   size: 91, 75
   orig: 150, 150
   offset: 28, 48
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_01
   rotate: false
-  xy: 864, 274
+  xy: 1291, 275
   size: 90, 76
   orig: 150, 150
   offset: 28, 47
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_02
   rotate: false
-  xy: 590, 168
+  xy: 215, 298
   size: 83, 76
   orig: 150, 150
   offset: 27, 47
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_03
   rotate: true
-  xy: 667, 98
+  xy: 1209, 299
   size: 66, 80
   orig: 150, 150
   offset: 27, 42
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_04
   rotate: true
-  xy: 491, 113
+  xy: 1206, 151
   size: 66, 86
   orig: 150, 150
   offset: 27, 36
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_05
   rotate: true
-  xy: 1295, 306
+  xy: 914, 272
   size: 66, 92
   orig: 150, 150
   offset: 27, 30
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_06
   rotate: true
-  xy: 401, 114
+  xy: 1293, 445
   size: 66, 88
   orig: 150, 150
   offset: 27, 30
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_07
   rotate: false
-  xy: 749, 92
+  xy: 430, 0
   size: 67, 76
   orig: 150, 150
   offset: 27, 30
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_08
-  rotate: true
-  xy: 1197, 80
+  rotate: false
+  xy: 286, 0
   size: 70, 76
   orig: 150, 150
   offset: 27, 29
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_09
   rotate: false
-  xy: 1275, 80
+  xy: 679, 77
   size: 77, 77
   orig: 150, 150
   offset: 27, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_10
   rotate: false
-  xy: 630, 20
+  xy: 711, 261
   size: 83, 76
   orig: 150, 150
   offset: 27, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_11
-  rotate: true
-  xy: 675, 166
+  rotate: false
+  xy: 1206, 83
   size: 86, 66
   orig: 150, 150
   offset: 29, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_12
-  rotate: true
-  xy: 956, 261
+  rotate: false
+  xy: 127, 377
   size: 89, 65
   orig: 150, 150
   offset: 29, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_13
   rotate: false
-  xy: 1193, 242
+  xy: 218, 376
   size: 89, 66
   orig: 150, 150
   offset: 29, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_14
   rotate: false
-  xy: 1037, 66
+  xy: 309, 368
   size: 73, 66
   orig: 150, 150
   offset: 45, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_15
-  rotate: false
-  xy: 1197, 8
+  rotate: true
+  xy: 358, 0
   size: 76, 70
   orig: 150, 150
   offset: 46, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_16
   rotate: true
-  xy: 1023, 197
+  xy: 221, 444
   size: 75, 87
   orig: 150, 150
   offset: 47, 28
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_17
   rotate: true
-  xy: 1061, 354
+  xy: 1293, 513
   size: 75, 88
   orig: 150, 150
   offset: 47, 29
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_18
-  rotate: false
-  xy: 743, 170
+  rotate: true
+  xy: 545, 0
   size: 70, 86
   orig: 150, 150
   offset: 52, 32
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_19
-  rotate: true
-  xy: 937, 121
+  rotate: false
+  xy: 474, 138
   size: 69, 84
   orig: 150, 150
   offset: 53, 35
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_20
   rotate: true
-  xy: 1112, 283
+  xy: 1059, 43
   size: 69, 79
   orig: 150, 150
   offset: 53, 43
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_21
-  rotate: false
-  xy: 960, 42
+  rotate: true
+  xy: 679, 0
   size: 75, 77
   orig: 150, 150
   offset: 47, 46
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_22
   rotate: true
-  xy: 1118, 5
+  xy: 207, 0
   size: 76, 77
   orig: 150, 150
   offset: 46, 46
   index: -1
 Multiplier_optical_flares/Multiplier_optical_flares_23
-  rotate: true
-  xy: 1195, 152
+  rotate: false
+  xy: 1293, 590
   size: 88, 76
   orig: 150, 150
   offset: 32, 47
@@ -321,14 +321,14 @@ Multiplier_stroke/Multiplier_stroke_14
   index: -1
 circle_bg
   rotate: false
-  xy: 347, 336
+  xy: 1291, 353
   size: 90, 90
   orig: 110, 110
   offset: 10, 10
   index: -1
 circle_bg_glow
   rotate: false
-  xy: 999, 544
+  xy: 935, 544
   size: 106, 106
   orig: 110, 110
   offset: 2, 2
@@ -341,237 +341,230 @@ cloud
   offset: 0, 13
   index: -1
 desk
-  rotate: true
-  xy: 815, 174
+  rotate: false
+  xy: 711, 156
   size: 83, 32
   orig: 83, 32
   offset: 0, 0
   index: -1
 dragon_eyes_light
   rotate: false
-  xy: 960, 0
+  xy: 410, 78
   size: 62, 40
   orig: 68, 43
   offset: 1, 2
   index: -1
 fu
   rotate: false
-  xy: 1399, 11
+  xy: 356, 175
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 hu_light_sweep/hu_light_sweep_00
-  rotate: true
-  xy: 864, 229
+  rotate: false
+  xy: 1132, 561
   size: 43, 90
   orig: 110, 110
   offset: 33, 16
   index: -1
 hu_light_sweep/hu_light_sweep_01
   rotate: true
-  xy: 227, 206
+  xy: 382, 242
   size: 48, 89
   orig: 110, 110
   offset: 31, 16
   index: -1
 hu_light_sweep/hu_light_sweep_02
   rotate: true
-  xy: 579, 106
+  xy: 1206, 21
   size: 60, 86
   orig: 110, 110
   offset: 25, 16
   index: -1
 hu_light_sweep/hu_light_sweep_03
-  rotate: true
-  xy: 715, 17
+  rotate: false
+  xy: 310, 436
   size: 73, 83
   orig: 110, 110
   offset: 18, 18
   index: -1
 hu_light_sweep/hu_light_sweep_04
-  rotate: true
-  xy: 473, 0
+  rotate: false
+  xy: 1209, 219
   size: 80, 78
   orig: 110, 110
   offset: 14, 23
   index: -1
 hu_light_sweep/hu_light_sweep_05
   rotate: false
-  xy: 800, 11
+  xy: 711, 190
   size: 83, 69
   orig: 110, 110
   offset: 12, 31
   index: -1
 hu_light_sweep/hu_light_sweep_06
   rotate: false
-  xy: 1023, 134
+  xy: 977, 120
   size: 87, 61
   orig: 110, 110
   offset: 8, 35
   index: -1
 hu_light_sweep/hu_light_sweep_07
   rotate: false
-  xy: 318, 202
+  xy: 473, 224
   size: 89, 50
   orig: 110, 110
   offset: 6, 40
   index: -1
 hu_light_sweep/hu_light_sweep_08
   rotate: false
-  xy: 214, 12
+  xy: 796, 222
   size: 89, 43
   orig: 110, 110
   offset: 6, 44
   index: -1
 hu_light_sweep/hu_light_sweep_09
   rotate: false
-  xy: 305, 8
+  xy: 564, 224
   size: 89, 50
   orig: 110, 110
   offset: 6, 39
   index: -1
 hu_light_sweep/hu_light_sweep_10
   rotate: false
-  xy: 1284, 239
+  xy: 384, 363
   size: 89, 65
   orig: 110, 110
   offset: 7, 31
   index: -1
 hu_light_sweep/hu_light_sweep_11
   rotate: false
-  xy: 1273, 159
+  xy: 126, 134
   size: 83, 78
   orig: 110, 110
   offset: 12, 25
   index: -1
 hu_light_sweep/hu_light_sweep_12
-  rotate: true
-  xy: 849, 158
+  rotate: false
+  xy: 608, 73
   size: 69, 86
   orig: 110, 110
   offset: 24, 20
   index: -1
 hu_light_sweep/hu_light_sweep_13
   rotate: true
-  xy: 500, 181
+  xy: 887, 136
   size: 63, 88
   orig: 110, 110
   offset: 25, 18
   index: -1
 hu_light_sweep/hu_light_sweep_14
-  rotate: false
-  xy: 719, 360
+  rotate: true
+  xy: 1291, 220
   size: 53, 90
   orig: 110, 110
   offset: 29, 16
   index: -1
 mahjong_glow-1
   rotate: false
-  xy: 1107, 542
+  xy: 1293, 668
   size: 88, 109
   orig: 110, 110
   offset: 11, 1
   index: -1
-mahjong_glow-2
-  rotate: false
-  xy: 385, 534
-  size: 96, 114
-  orig: 110, 116
-  offset: 7, 1
-  index: -1
 optical_flares
   rotate: false
-  xy: 778, 542
+  xy: 605, 542
   size: 108, 108
   orig: 110, 110
   offset: 2, 1
   index: -1
 symbol-0
-  rotate: false
-  xy: 595, 457
+  rotate: true
+  xy: 382, 292
   size: 69, 89
   orig: 110, 110
   offset: 20, 11
   index: -1
 symbol-1
   rotate: true
-  xy: 219, 135
+  xy: 473, 276
   size: 69, 89
   orig: 110, 110
   offset: 20, 11
   index: -1
 symbol-10
   rotate: false
-  xy: 439, 356
+  xy: 914, 340
   size: 97, 97
   orig: 110, 110
   offset: 6, 7
   index: -1
 symbol-11
   rotate: false
-  xy: 538, 246
+  xy: 1010, 441
   size: 97, 97
   orig: 110, 110
   offset: 6, 7
   index: -1
 symbol-12
   rotate: false
-  xy: 620, 353
+  xy: 1013, 342
   size: 97, 97
   orig: 110, 110
   offset: 6, 7
   index: -1
 symbol-13
   rotate: false
-  xy: 637, 254
+  xy: 1109, 441
   size: 97, 97
   orig: 110, 110
   offset: 6, 7
   index: -1
 symbol-2
   rotate: true
-  xy: 310, 131
+  xy: 564, 276
   size: 69, 89
   orig: 110, 110
   offset: 20, 11
   index: -1
 symbol-3
   rotate: true
-  xy: 300, 60
+  xy: 796, 267
   size: 69, 89
   orig: 110, 110
   offset: 20, 11
   index: -1
 symbol-4
   rotate: true
-  xy: 409, 182
+  xy: 887, 201
   size: 69, 89
   orig: 110, 110
   offset: 20, 11
   index: -1
 symbol-5
   rotate: true
-  xy: 1197, 465
-  size: 91, 109
+  xy: 978, 183
+  size: 69, 89
   orig: 110, 110
-  offset: 10, 0
+  offset: 21, 10
   index: -1
-symbol-5_light_sweep/symbol-5_light_sweep_02
+symbol-5_light_sweep/symbol-5_light_sweep_03
   rotate: false
   xy: 408, 650
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-symbol-6_light_sweep/symbol-6_light_sweep_02
+symbol-6_light_sweep/symbol-6_light_sweep_03
   rotate: false
   xy: 408, 650
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-symbol-7_light_sweep/symbol-7_light_sweep_02
+symbol-7_light_sweep/symbol-7_light_sweep_03
   rotate: false
   xy: 408, 650
   size: 1, 1
@@ -585,275 +578,212 @@ symbol-9_particle/symbol-9_particle_00
   orig: 1, 1
   offset: 0, 0
   index: -1
-symbol-5_light_sweep/symbol-5_light_sweep_03
-  rotate: true
-  xy: 127, 5
-  size: 24, 39
-  orig: 110, 110
-  offset: 10, 1
-  index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_04
   rotate: false
-  xy: 1358, 165
-  size: 43, 72
+  xy: 1113, 0
+  size: 24, 41
   orig: 110, 110
-  offset: 10, 0
+  offset: 25, 10
   index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_05
-  rotate: false
-  xy: 736, 258
-  size: 62, 100
+  rotate: true
+  xy: 127, 0
+  size: 46, 78
   orig: 110, 110
-  offset: 10, 0
+  offset: 21, 10
   index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_06
   rotate: true
-  xy: 127, 348
-  size: 80, 108
+  xy: 1066, 114
+  size: 63, 87
   orig: 110, 110
-  offset: 10, 0
+  offset: 21, 10
   index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_07
   rotate: true
-  xy: 1193, 374
-  size: 89, 109
+  xy: 1294, 149
+  size: 69, 87
   orig: 110, 110
-  offset: 10, 0
+  offset: 21, 11
   index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_08
   rotate: true
-  xy: 237, 343
-  size: 85, 108
+  xy: 883, 67
+  size: 67, 86
   orig: 110, 110
-  offset: 16, 1
+  offset: 23, 13
   index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_09
   rotate: false
-  xy: 595, 548
-  size: 69, 103
+  xy: 828, 67
+  size: 53, 82
   orig: 110, 110
-  offset: 32, 6
+  offset: 37, 17
   index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_10
   rotate: true
-  xy: 1112, 232
-  size: 49, 79
+  xy: 1140, 39
+  size: 31, 51
   orig: 110, 110
-  offset: 52, 30
+  offset: 56, 48
   index: -1
 symbol-5_light_sweep/symbol-5_light_sweep_11
   rotate: false
-  xy: 904, 109
-  size: 30, 47
+  xy: 1155, 172
+  size: 3, 5
   orig: 110, 110
-  offset: 71, 62
-  index: -1
-symbol-5_light_sweep/symbol-5_light_sweep_12
-  rotate: false
-  xy: 1445, 22
-  size: 23, 36
-  orig: 110, 110
-  offset: 78, 73
-  index: -1
-symbol-5_light_sweep/symbol-5_light_sweep_13
-  rotate: true
-  xy: 427, 457
-  size: 15, 23
-  orig: 110, 110
-  offset: 85, 85
+  offset: 76, 93
   index: -1
 symbol-5_pattern
-  rotate: true
-  xy: 396, 0
-  size: 61, 75
-  orig: 61, 76
-  offset: 0, 0
+  rotate: false
+  xy: 897, 5
+  size: 51, 60
+  orig: 110, 110
+  offset: 33, 31
   index: -1
 symbol-6
   rotate: true
-  xy: 778, 449
-  size: 91, 109
+  xy: 1069, 179
+  size: 69, 89
   orig: 110, 110
-  offset: 10, 0
-  index: -1
-symbol-6_light_sweep/symbol-6_light_sweep_03
-  rotate: true
-  xy: 168, 5
-  size: 24, 39
-  orig: 110, 110
-  offset: 10, 1
+  offset: 22, 12
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_04
-  rotate: true
-  xy: 1436, 203
-  size: 43, 72
+  rotate: false
+  xy: 358, 253
+  size: 22, 36
   orig: 110, 110
-  offset: 10, 0
+  offset: 26, 12
+  index: -1
+symbol-7_light_sweep/symbol-7_light_sweep_04
+  rotate: false
+  xy: 358, 253
+  size: 22, 36
+  orig: 110, 110
+  offset: 26, 12
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_05
   rotate: false
-  xy: 800, 259
-  size: 62, 100
+  xy: 1160, 172
+  size: 44, 76
   orig: 110, 110
-  offset: 10, 0
+  offset: 22, 12
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_06
   rotate: true
-  xy: 337, 254
-  size: 80, 108
+  xy: 545, 161
+  size: 61, 87
   orig: 110, 110
-  offset: 10, 0
+  offset: 22, 12
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_07
   rotate: true
-  xy: 128, 430
-  size: 89, 109
+  xy: 1294, 78
+  size: 69, 87
   orig: 110, 110
-  offset: 10, 0
+  offset: 22, 13
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_08
-  rotate: true
-  xy: 227, 256
-  size: 85, 108
+  rotate: false
+  xy: 758, 63
+  size: 68, 86
   orig: 110, 110
-  offset: 16, 1
+  offset: 23, 15
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_09
-  rotate: true
-  xy: 1405, 498
-  size: 69, 103
+  rotate: false
+  xy: 655, 262
+  size: 54, 83
   orig: 110, 110
-  offset: 32, 6
+  offset: 37, 18
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_10
   rotate: true
-  xy: 391, 63
-  size: 49, 79
+  xy: 474, 78
+  size: 34, 55
   orig: 110, 110
-  offset: 52, 30
+  offset: 55, 46
   index: -1
 symbol-6_light_sweep/symbol-6_light_sweep_11
-  rotate: false
-  xy: 1403, 192
-  size: 30, 47
+  rotate: true
+  xy: 1193, 63
+  size: 7, 11
   orig: 110, 110
-  offset: 71, 62
+  offset: 74, 90
   index: -1
-symbol-6_light_sweep/symbol-6_light_sweep_12
-  rotate: false
-  xy: 1470, 22
-  size: 23, 36
+symbol-7_light_sweep/symbol-7_light_sweep_11
+  rotate: true
+  xy: 1193, 63
+  size: 7, 11
   orig: 110, 110
-  offset: 78, 73
-  index: -1
-symbol-6_light_sweep/symbol-6_light_sweep_13
-  rotate: false
-  xy: 937, 204
-  size: 15, 23
-  orig: 110, 110
-  offset: 85, 85
+  offset: 74, 90
   index: -1
 symbol-6_pattern
   rotate: true
-  xy: 1112, 83
-  size: 64, 83
+  xy: 950, 5
+  size: 43, 57
   orig: 110, 110
-  offset: 24, 18
+  offset: 36, 35
   index: -1
 symbol-7
-  rotate: false
-  xy: 1100, 431
-  size: 91, 109
-  orig: 110, 110
-  offset: 10, 0
-  index: -1
-symbol-7_light_sweep/symbol-7_light_sweep_03
   rotate: true
-  xy: 904, 83
-  size: 24, 39
+  xy: 796, 151
+  size: 69, 89
   orig: 110, 110
-  offset: 10, 1
-  index: -1
-symbol-7_light_sweep/symbol-7_light_sweep_04
-  rotate: true
-  xy: 1435, 158
-  size: 43, 72
-  orig: 110, 110
-  offset: 10, 0
+  offset: 22, 12
   index: -1
 symbol-7_light_sweep/symbol-7_light_sweep_05
-  rotate: true
-  xy: 1193, 310
-  size: 62, 100
+  rotate: false
+  xy: 499, 0
+  size: 44, 76
   orig: 110, 110
-  offset: 10, 0
+  offset: 22, 12
   index: -1
 symbol-7_light_sweep/symbol-7_light_sweep_06
   rotate: false
-  xy: 538, 345
-  size: 80, 108
+  xy: 545, 72
+  size: 61, 87
   orig: 110, 110
-  offset: 10, 0
+  offset: 22, 12
   index: -1
 symbol-7_light_sweep/symbol-7_light_sweep_07
   rotate: true
-  xy: 239, 430
-  size: 89, 109
+  xy: 1294, 7
+  size: 69, 87
   orig: 110, 110
-  offset: 10, 0
+  offset: 22, 13
   index: -1
 symbol-7_light_sweep/symbol-7_light_sweep_08
-  rotate: false
-  xy: 127, 31
-  size: 85, 108
+  rotate: true
+  xy: 971, 50
+  size: 68, 86
   orig: 110, 110
-  offset: 16, 1
+  offset: 23, 15
   index: -1
 symbol-7_light_sweep/symbol-7_light_sweep_09
-  rotate: true
-  xy: 1405, 427
-  size: 69, 103
+  rotate: false
+  xy: 655, 177
+  size: 54, 83
   orig: 110, 110
-  offset: 32, 6
+  offset: 37, 18
   index: -1
 symbol-7_light_sweep/symbol-7_light_sweep_10
   rotate: true
-  xy: 1037, 15
-  size: 49, 79
+  xy: 1056, 7
+  size: 34, 55
   orig: 110, 110
-  offset: 52, 30
-  index: -1
-symbol-7_light_sweep/symbol-7_light_sweep_11
-  rotate: false
-  xy: 1403, 143
-  size: 30, 47
-  orig: 110, 110
-  offset: 71, 62
-  index: -1
-symbol-7_light_sweep/symbol-7_light_sweep_12
-  rotate: true
-  xy: 472, 88
-  size: 23, 36
-  orig: 110, 110
-  offset: 78, 73
-  index: -1
-symbol-7_light_sweep/symbol-7_light_sweep_13
-  rotate: true
-  xy: 630, 3
-  size: 15, 23
-  orig: 110, 110
-  offset: 85, 85
+  offset: 55, 46
   index: -1
 symbol-7_pattern
-  rotate: true
-  xy: 818, 82
-  size: 74, 84
+  rotate: false
+  xy: 263, 159
+  size: 45, 56
   orig: 110, 110
-  offset: 19, 17
+  offset: 38, 35
   index: -1
 symbol-9
   rotate: false
-  xy: 889, 437
+  xy: 385, 430
   size: 106, 106
   orig: 110, 110
   offset: 2, 2
@@ -867,217 +797,217 @@ symbol-9_circle
   index: -1
 symbol-9_optical_flares
   rotate: false
-  xy: 1293, 667
+  xy: 1181, 555
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 symbol-9_particle/symbol-9_particle_01
   rotate: false
-  xy: 1352, 10
+  xy: 1009, 3
   size: 45, 45
   orig: 110, 110
   offset: 34, 33
   index: -1
 symbol-9_particle/symbol-9_particle_02
-  rotate: true
-  xy: 1354, 108
+  rotate: false
+  xy: 1155, 72
   size: 49, 46
   orig: 110, 110
   offset: 31, 33
   index: -1
 symbol-9_particle/symbol-9_particle_03
-  rotate: false
-  xy: 1435, 106
+  rotate: true
+  xy: 211, 161
   size: 54, 50
   orig: 110, 110
   offset: 28, 30
   index: -1
 symbol-9_particle/symbol-9_particle_04
-  rotate: true
-  xy: 427, 474
+  rotate: false
+  xy: 205, 78
   size: 58, 54
   orig: 110, 110
   offset: 25, 27
   index: -1
 symbol-9_particle/symbol-9_particle_05
-  rotate: true
-  xy: 1375, 241
+  rotate: false
+  xy: 758, 2
   size: 63, 59
   orig: 110, 110
   offset: 22, 24
   index: -1
 symbol-9_particle/symbol-9_particle_06
-  rotate: true
-  xy: 956, 192
+  rotate: false
+  xy: 828, 0
   size: 67, 65
   orig: 110, 110
   offset: 19, 21
   index: -1
 symbol-9_particle/symbol-9_particle_07
   rotate: false
-  xy: 1436, 248
+  xy: 284, 221
   size: 72, 68
   orig: 110, 110
   offset: 16, 20
   index: -1
 symbol-9_particle/symbol-9_particle_08
   rotate: false
-  xy: 1275, 7
+  xy: 265, 78
   size: 75, 71
   orig: 110, 110
   offset: 14, 19
   index: -1
 symbol-9_particle/symbol-9_particle_09
   rotate: true
-  xy: 885, 0
+  xy: 209, 217
   size: 78, 73
   orig: 110, 110
   offset: 13, 18
   index: -1
 symbol-9_particle/symbol-9_particle_10
-  rotate: true
-  xy: 553, 0
+  rotate: false
+  xy: 300, 291
   size: 80, 75
   orig: 110, 110
   offset: 13, 17
   index: -1
 symbol-9_particle/symbol-9_particle_11
-  rotate: false
-  xy: 214, 57
+  rotate: true
+  xy: 127, 48
   size: 84, 76
   orig: 110, 110
   offset: 12, 16
   index: -1
 symbol-9_particle/symbol-9_particle_12
   rotate: false
-  xy: 1023, 274
+  xy: 126, 297
   size: 87, 78
   orig: 110, 110
   offset: 11, 15
   index: -1
 symbol-9_particle/symbol-9_particle_13
-  rotate: false
-  xy: 969, 355
+  rotate: true
+  xy: 1209, 367
   size: 90, 80
   orig: 110, 110
   offset: 10, 14
   index: -1
 symbol-9_particle/symbol-9_particle_14
-  rotate: false
-  xy: 873, 352
+  rotate: true
+  xy: 1208, 459
   size: 94, 83
   orig: 110, 110
   offset: 9, 12
   index: -1
 symbol-9_particle/symbol-9_particle_15
   rotate: false
-  xy: 774, 361
+  xy: 1013, 254
   size: 97, 86
   orig: 110, 110
   offset: 8, 10
   index: -1
 symbol-9_particle/symbol-9_particle_16
   rotate: true
-  xy: 447, 253
+  xy: 709, 439
   size: 101, 89
   orig: 110, 110
   offset: 7, 8
   index: -1
 symbol-9_particle/symbol-9_particle_17
-  rotate: true
-  xy: 126, 141
+  rotate: false
+  xy: 493, 347
   size: 104, 91
   orig: 110, 110
   offset: 6, 6
   index: -1
 symbol-9_particle/symbol-9_particle_18
   rotate: true
-  xy: 1308, 467
+  xy: 1112, 343
   size: 96, 95
   orig: 110, 110
   offset: 4, 4
   index: -1
 symbol-9_particle/symbol-9_particle_19
   rotate: false
-  xy: 126, 247
+  xy: 813, 338
   size: 99, 99
   orig: 110, 110
   offset: 2, 2
   index: -1
 symbol-9_particle/symbol-9_particle_20
-  rotate: true
-  xy: 1405, 569
+  rotate: false
+  xy: 906, 439
   size: 102, 103
   orig: 110, 110
   offset: 0, 0
   index: -1
 symbol-9_particle/symbol-9_particle_21
-  rotate: false
-  xy: 997, 437
+  rotate: true
+  xy: 602, 439
   size: 101, 105
   orig: 110, 110
   offset: 3, 0
   index: -1
 symbol-9_particle/symbol-9_particle_22
-  rotate: false
-  xy: 1405, 673
+  rotate: true
+  xy: 800, 439
   size: 103, 104
   orig: 110, 110
   offset: 2, 3
   index: -1
 symbol-9_particle/symbol-9_particle_23
-  rotate: false
-  xy: 1197, 558
+  rotate: true
+  xy: 826, 544
   size: 106, 107
   orig: 110, 110
   offset: 1, 2
   index: -1
 symbol-9_particle/symbol-9_particle_24
-  rotate: true
-  xy: 1405, 318
+  rotate: false
+  xy: 493, 440
   size: 107, 102
   orig: 110, 110
   offset: 1, 2
   index: -1
 symbol-9_particle/symbol-9_particle_25
   rotate: false
-  xy: 888, 545
+  xy: 715, 545
   size: 109, 105
   orig: 110, 110
   offset: 0, 0
   index: -1
 symbol-9_particle/symbol-9_particle_26
-  rotate: false
-  xy: 666, 544
+  rotate: true
+  xy: 385, 538
   size: 110, 106
   orig: 110, 110
   offset: 0, 0
   index: -1
 symbol-9_particle/symbol-9_particle_27
   rotate: false
-  xy: 483, 544
+  xy: 493, 544
   size: 110, 107
   orig: 110, 110
   offset: 0, 0
   index: -1
 symbol-9_particle/symbol-9_particle_28
-  rotate: false
-  xy: 483, 455
+  rotate: true
+  xy: 1043, 540
   size: 110, 87
   orig: 110, 110
   offset: 0, 22
   index: -1
 symbol-9_particle/symbol-9_particle_29
   rotate: false
-  xy: 666, 452
+  xy: 599, 347
   size: 110, 90
   orig: 110, 110
   offset: 0, 20
   index: -1
 text_hu
   rotate: true
-  xy: 1308, 374
+  xy: 1112, 250
   size: 91, 95
   orig: 110, 110
   offset: 6, 11

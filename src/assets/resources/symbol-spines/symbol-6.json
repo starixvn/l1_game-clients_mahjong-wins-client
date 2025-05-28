@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "2Laoywpra6Ts7UXP7WCMzMVnh8k",
+	"hash": "UG9iLy8nwMG+uIy15DVbwF1Mgjg",
 	"spine": "3.8.99",
 	"x": -75,
 	"y": -82.88,
@@ -18,11 +18,11 @@
 	{ "name": "optical_flares", "parent": "mahjong2", "y": 51 }
 ],
 "slots": [
+	{ "name": "mahjong_glow-1", "bone": "mahjong2", "attachment": "mahjong_glow-1" },
 	{ "name": "symbol-6", "bone": "mahjong2", "attachment": "symbol-6" },
 	{ "name": "symbol-6_pattern", "bone": "pattern", "attachment": "symbol-6_pattern" },
-	{ "name": "mahjong_glow-2", "bone": "mahjong2", "attachment": "mahjong_glow-2", "blend": "additive" },
 	{ "name": "cloud", "bone": "cloud", "attachment": "cloud" },
-	{ "name": "symbol-6_light_sweep/symbol-6_light_sweep_02", "bone": "mahjong2", "attachment": "symbol-6_light_sweep/symbol-6_light_sweep_13", "blend": "additive" },
+	{ "name": "symbol-6_light_sweep/symbol-6_light_sweep_02", "bone": "mahjong2", "blend": "additive" },
 	{ "name": "optical_flares", "bone": "optical_flares", "attachment": "optical_flares", "blend": "additive" }
 ],
 "skins": [
@@ -32,8 +32,8 @@
 			"cloud": {
 				"cloud": { "width": 150, "height": 150 }
 			},
-			"mahjong_glow-2": {
-				"mahjong_glow-2": { "y": 51, "width": 110, "height": 116 }
+			"mahjong_glow-1": {
+				"mahjong_glow-1": { "y": 51, "width": 110, "height": 110 }
 			},
 			"optical_flares": {
 				"optical_flares": { "width": 110, "height": 110 }
@@ -42,7 +42,6 @@
 				"symbol-6": { "y": 51, "width": 110, "height": 110 }
 			},
 			"symbol-6_light_sweep/symbol-6_light_sweep_02": {
-				"symbol-6_light_sweep/symbol-6_light_sweep_02": { "y": 51, "width": 110, "height": 110 },
 				"symbol-6_light_sweep/symbol-6_light_sweep_03": { "y": 51, "width": 110, "height": 110 },
 				"symbol-6_light_sweep/symbol-6_light_sweep_04": { "y": 51, "width": 110, "height": 110 },
 				"symbol-6_light_sweep/symbol-6_light_sweep_05": { "y": 51, "width": 110, "height": 110 },
@@ -51,9 +50,7 @@
 				"symbol-6_light_sweep/symbol-6_light_sweep_08": { "y": 51, "width": 110, "height": 110 },
 				"symbol-6_light_sweep/symbol-6_light_sweep_09": { "y": 51, "width": 110, "height": 110 },
 				"symbol-6_light_sweep/symbol-6_light_sweep_10": { "y": 51, "width": 110, "height": 110 },
-				"symbol-6_light_sweep/symbol-6_light_sweep_11": { "y": 51, "width": 110, "height": 110 },
-				"symbol-6_light_sweep/symbol-6_light_sweep_12": { "y": 51, "width": 110, "height": 110 },
-				"symbol-6_light_sweep/symbol-6_light_sweep_13": { "y": 51, "width": 110, "height": 110 }
+				"symbol-6_light_sweep/symbol-6_light_sweep_11": { "y": 51, "width": 110, "height": 110 }
 			},
 			"symbol-6_pattern": {
 				"symbol-6_pattern": { "width": 110, "height": 110 }
@@ -72,11 +69,7 @@
 					{ "time": 1, "color": "ffffff00" }
 				]
 			},
-			"mahjong_glow-2": {
-				"color": [
-					{ "time": 0.1, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.7667, "color": "ffffff00" }
-				],
+			"mahjong_glow-1": {
 				"attachment": [
 					{ "name": null }
 				]
@@ -90,11 +83,6 @@
 				"color": [
 					{ "time": 0.1, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.7667, "color": "ffffff00" }
-				]
-			},
-			"symbol-6_light_sweep/symbol-6_light_sweep_02": {
-				"attachment": [
-					{ "name": null }
 				]
 			},
 			"symbol-6_pattern": {
@@ -132,7 +120,7 @@
 					{ "name": null }
 				]
 			},
-			"mahjong_glow-2": {
+			"mahjong_glow-1": {
 				"color": [
 					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.3333, "color": "ffffffdc" }
@@ -148,7 +136,6 @@
 			},
 			"symbol-6_light_sweep/symbol-6_light_sweep_02": {
 				"attachment": [
-					{ "time": 0.2667, "name": "symbol-6_light_sweep/symbol-6_light_sweep_02" },
 					{ "time": 0.3, "name": "symbol-6_light_sweep/symbol-6_light_sweep_03" },
 					{ "time": 0.3333, "name": "symbol-6_light_sweep/symbol-6_light_sweep_04" },
 					{ "time": 0.3667, "name": "symbol-6_light_sweep/symbol-6_light_sweep_05" },
@@ -158,8 +145,6 @@
 					{ "time": 0.5, "name": "symbol-6_light_sweep/symbol-6_light_sweep_09" },
 					{ "time": 0.5333, "name": "symbol-6_light_sweep/symbol-6_light_sweep_10" },
 					{ "time": 0.5667, "name": "symbol-6_light_sweep/symbol-6_light_sweep_11" },
-					{ "time": 0.6, "name": "symbol-6_light_sweep/symbol-6_light_sweep_12" },
-					{ "time": 0.6333, "name": "symbol-6_light_sweep/symbol-6_light_sweep_13" },
 					{ "time": 0.6667, "name": null }
 				]
 			},
@@ -219,7 +204,7 @@
 					{ "name": null }
 				]
 			},
-			"mahjong_glow-2": {
+			"mahjong_glow-1": {
 				"attachment": [
 					{ "name": null }
 				]
