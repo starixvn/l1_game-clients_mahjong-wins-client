@@ -1,250 +1,237 @@
 
 icon-game.webp
-size: 402,1009
+size: 1842,381
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 beard
   rotate: true
-  xy: 361, 799
+  xy: 1812, 295
   size: 84, 26
   orig: 84, 26
   offset: 0, 0
   index: -1
 body
-  rotate: false
-  xy: 2, 433
+  rotate: true
+  xy: 864, 176
   size: 203, 400
   orig: 203, 400
   offset: 0, 0
   index: -1
 chin
-  rotate: true
-  xy: 207, 619
+  rotate: false
+  xy: 1685, 147
   size: 82, 110
   orig: 82, 110
   offset: 0, 0
   index: -1
 eyebrow
-  rotate: true
-  xy: 346, 726
+  rotate: false
+  xy: 1769, 210
   size: 71, 47
   orig: 71, 47
   offset: 0, 0
   index: -1
 eyelid
-  rotate: true
-  xy: 207, 734
+  rotate: false
+  xy: 1712, 29
   size: 47, 17
   orig: 47, 17
   offset: 0, 0
   index: -1
 eyes
-  rotate: true
-  xy: 207, 783
+  rotate: false
+  xy: 1619, 14
   size: 50, 20
   orig: 50, 20
   offset: 0, 0
   index: -1
-gameiconbg
+fire_particle/fire_particle_00
+  rotate: true
+  xy: 239, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_01
   rotate: false
-  xy: 2, 2
+  xy: 1464, 259
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_02
+  rotate: true
+  xy: 361, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_03
+  rotate: true
+  xy: 361, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_04
+  rotate: false
+  xy: 1638, 259
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_05
+  rotate: true
+  xy: 483, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_06
+  rotate: true
+  xy: 605, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_07
+  rotate: true
+  xy: 727, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_08
+  rotate: true
+  xy: 849, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_09
+  rotate: true
+  xy: 971, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_10
+  rotate: true
+  xy: 1093, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_11
+  rotate: true
+  xy: 1215, 2
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_12
+  rotate: false
+  xy: 1337, 137
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_13
+  rotate: false
+  xy: 1337, 15
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+fire_particle/fire_particle_14
+  rotate: false
+  xy: 1511, 137
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+gameiconbg
+  rotate: true
+  xy: 2, 183
   size: 196, 429
   orig: 196, 429
   offset: 0, 0
   index: -1
 glow
   rotate: false
-  xy: 2, 835
+  xy: 2, 2
   size: 235, 172
   orig: 271, 186
   offset: 22, 14
   index: -1
 hand_L_
   rotate: true
-  xy: 207, 518
+  xy: 1619, 36
   size: 99, 90
   orig: 99, 98
   offset: 0, 0
   index: -1
 hand_L_claw01
   rotate: true
-  xy: 361, 982
+  xy: 1671, 9
   size: 25, 39
   orig: 25, 39
   offset: 0, 0
   index: -1
 hand_L_claw02
-  rotate: true
-  xy: 361, 914
+  rotate: false
+  xy: 1805, 171
   size: 30, 37
   orig: 30, 37
   offset: 0, 0
   index: -1
 hand_L_claw03
-  rotate: true
-  xy: 361, 885
+  rotate: false
+  xy: 1812, 264
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hand_R
-  rotate: false
-  xy: 299, 523
+  rotate: true
+  xy: 1711, 48
   size: 97, 94
   orig: 97, 94
   offset: 0, 0
   index: -1
 hand_R_arm
   rotate: false
-  xy: 319, 636
+  xy: 1266, 192
   size: 69, 65
   orig: 69, 65
   offset: 0, 0
   index: -1
 hand_R_claw
-  rotate: true
-  xy: 361, 946
+  rotate: false
+  xy: 1769, 170
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
 head
-  rotate: true
-  xy: 229, 703
+  rotate: false
+  xy: 1511, 20
   size: 106, 115
   orig: 106, 115
   offset: 0, 0
   index: -1
 lightoverlay
-  rotate: false
-  xy: 200, 2
+  rotate: true
+  xy: 433, 183
   size: 196, 429
   orig: 196, 429
   offset: 0, 0
   index: -1
 topcolor
-  rotate: true
-  xy: 239, 811
+  rotate: false
+  xy: 1266, 259
   size: 196, 120
   orig: 196, 121
-  offset: 0, 0
-  index: -1
-
-icon-game2.webp
-size: 1702,1162
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-fire_particle/fire_particle_00
-  rotate: false
-  xy: 2, 752
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_01
-  rotate: false
-  xy: 2, 342
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_02
-  rotate: false
-  xy: 342, 752
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_03
-  rotate: false
-  xy: 342, 752
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_04
-  rotate: false
-  xy: 342, 342
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_05
-  rotate: true
-  xy: 2, 2
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_06
-  rotate: false
-  xy: 682, 752
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_07
-  rotate: false
-  xy: 682, 342
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_08
-  rotate: true
-  xy: 412, 2
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_09
-  rotate: false
-  xy: 1022, 752
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_10
-  rotate: false
-  xy: 1022, 342
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_11
-  rotate: true
-  xy: 822, 2
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_12
-  rotate: false
-  xy: 1362, 752
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_13
-  rotate: false
-  xy: 1362, 342
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_14
-  rotate: true
-  xy: 1232, 2
-  size: 338, 408
-  orig: 338, 408
-  offset: 0, 0
-  index: -1
-fire_particle/fire_particle_15
-  rotate: true
-  xy: 1232, 2
-  size: 338, 408
-  orig: 338, 408
   offset: 0, 0
   index: -1
