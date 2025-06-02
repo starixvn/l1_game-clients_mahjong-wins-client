@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "6T+E7LwzhImLfVJFBbdQwXnQS5g",
+	"hash": "GZ1vGIkpG6kaheEASLlCWvGx/gA",
 	"spine": "3.8.99",
 	"x": -75,
 	"y": -82.88,
@@ -63,10 +63,8 @@
 		"slots": {
 			"cloud": {
 				"color": [
-					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.1333, "color": "ffffffdd", "curve": "stepped" },
-					{ "time": 0.4333, "color": "ffffffdd", "curve": 0.25, "c3": 0.75 },
-					{ "time": 1, "color": "ffffff00" }
+					{ "time": 0.1667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "color": "ffffff00" }
 				]
 			},
 			"mahjong_glow-1": {
@@ -81,8 +79,8 @@
 			},
 			"symbol-7": {
 				"color": [
-					{ "time": 0.1, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.7667, "color": "ffffff00" }
+					{ "time": 0.2, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "color": "ffffff00" }
 				]
 			},
 			"symbol-7_pattern": {
@@ -94,21 +92,22 @@
 		"bones": {
 			"mahjong": {
 				"scale": [
-					{ "time": 0.1, "curve": 0.033, "c3": 0.033 },
-					{ "time": 0.7667, "x": 1.5, "y": 1.5 }
+					{ "curve": 0.033, "c3": 0.033 },
+					{ "time": 0.8333, "x": 1.4, "y": 1.4 }
 				]
 			},
 			"cloud": {
 				"rotate": [
 					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 1, "angle": -12.02 }
+					{ "time": 0.8333, "angle": -12.02 }
 				],
 				"translate": [
 					{ "y": 9.07 }
 				],
 				"scale": [
-					{ "x": 0.5, "y": 0.5, "curve": 0.037, "c3": 0.004 },
-					{ "time": 1, "x": 1.2, "y": 1.2 }
+					{ "x": 0, "y": 0, "curve": 0.034, "c3": 0.085 },
+					{ "time": 0.1667, "x": 0.72, "y": 0.72, "curve": 0.037, "c2": 0.25, "c3": 0.155 },
+					{ "time": 0.8333, "x": 0.85, "y": 0.85 }
 				]
 			}
 		}
