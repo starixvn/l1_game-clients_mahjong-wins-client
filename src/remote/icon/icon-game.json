@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "ihYMNt/rhtY5kzDFChIp8tgJtsA",
+	"hash": "YlgV+5p2HiI6h8BbhZo+XO95nIU",
 	"spine": "3.8.99",
 	"x": -97.99,
 	"y": -214.52,
@@ -128,7 +128,7 @@
 	{ "name": "body", "bone": "root", "attachment": "body" },
 	{ "name": "chin", "bone": "root", "attachment": "chin" },
 	{ "name": "eyes", "bone": "root", "attachment": "eyes" },
-	{ "name": "eyes_glow", "bone": "root", "attachment": "eyes_glow", "blend": "screen" },
+	{ "name": "eyes_glow", "bone": "root", "attachment": "eyes_glow" },
 	{ "name": "head", "bone": "root", "attachment": "head" },
 	{ "name": "eyelid", "bone": "root", "attachment": "eyelid" },
 	{ "name": "eyebrow", "bone": "root", "attachment": "eyebrow" },
@@ -144,7 +144,7 @@
 	{ "name": "hand_R_claw", "bone": "root", "attachment": "hand_R_claw" },
 	{ "name": "hand_R", "bone": "root", "attachment": "hand_R" },
 	{ "name": "topcolor", "bone": "root", "attachment": "topcolor" },
-	{ "name": "glow", "bone": "bone_glow", "attachment": "glow", "blend": "screen" },
+	{ "name": "glow", "bone": "bone_glow", "attachment": "glow" },
 	{ "name": "lightoverlay", "bone": "root", "attachment": "lightoverlay" },
 	{ "name": "fire_particle/fire_particle_00", "bone": "root" },
 	{ "name": "light_front", "bone": "bone_light_front", "attachment": "light/light_front/light_front_00019", "blend": "additive" }
