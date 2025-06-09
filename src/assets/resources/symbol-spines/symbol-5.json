@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "imkaYjJvA7YuAxlLab8ww6PJ3mk",
+	"hash": "Pyin5Y344soOsGVOFxYN/dVyqcc",
 	"spine": "3.8.99",
 	"x": -75,
 	"y": -82.88,
@@ -34,13 +34,13 @@
 				"cloud": { "width": 150, "height": 150 }
 			},
 			"mahjong_glow-1": {
-				"mahjong_glow-1": { "y": 51, "width": 110, "height": 110 }
+				"mahjong_glow-1": { "y": 51, "width": 116, "height": 126 }
 			},
 			"optical_flares": {
 				"optical_flares": { "width": 110, "height": 110 }
 			},
 			"symbol-5": {
-				"symbol-5": { "y": 51, "width": 110, "height": 110 }
+				"symbol-5": { "y": 51, "width": 94, "height": 104 }
 			},
 			"symbol-5_light_sweep/symbol-5_light_sweep_00": {
 				"symbol-5_light_sweep/symbol-5_light_sweep_03": { "y": 51, "width": 110, "height": 110 },
@@ -54,10 +54,10 @@
 				"symbol-5_light_sweep/symbol-5_light_sweep_11": { "y": 51, "width": 110, "height": 110 }
 			},
 			"symbol-5_pattern": {
-				"symbol-5_pattern": { "width": 110, "height": 110 }
+				"symbol-5_pattern": { "x": -3.27, "y": 3.71, "width": 65, "height": 83 }
 			},
 			"symbol-5_pattern2": {
-				"symbol-5_pattern": { "width": 110, "height": 110 }
+				"symbol-5_pattern": { "x": -3.27, "y": 3.71, "width": 65, "height": 83 }
 			}
 		}
 	}
@@ -83,8 +83,8 @@
 			},
 			"symbol-5": {
 				"color": [
-					{ "time": 0.2, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.8333, "color": "ffffff00" }
+					{ "time": 0.1333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "color": "ffffff00" }
 				]
 			},
 			"symbol-5_pattern": {
@@ -102,7 +102,8 @@
 			"mahjong": {
 				"scale": [
 					{ "curve": 0.033, "c3": 0 },
-					{ "time": 0.7667, "x": 1.4, "y": 1.4 }
+					{ "time": 0.1333, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
 				]
 			},
 			"cloud": {
@@ -158,14 +159,14 @@
 			"symbol-5_pattern": {
 				"color": [
 					{ "color": "000b5d00" },
-					{ "time": 0.2, "color": "000b5dff" },
+					{ "time": 0.2, "color": "001be5ff" },
 					{ "time": 0.5, "color": "000b5d00" }
 				]
 			},
 			"symbol-5_pattern2": {
 				"color": [
 					{ "color": "000b5d00" },
-					{ "time": 0.2, "color": "000b5dff" },
+					{ "time": 0.2, "color": "001be5ff" },
 					{ "time": 0.5, "color": "000b5d00" }
 				]
 			}

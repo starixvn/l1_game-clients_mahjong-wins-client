@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "eHasIw2bOBcp3yOQ8FL/4YmtkhU",
+	"hash": "tZ4u+Yy4m1W0U/wy5NKdofNIGms",
 	"spine": "3.8.99",
 	"x": -75,
 	"y": -82.88,
@@ -33,13 +33,13 @@
 				"cloud": { "width": 150, "height": 150 }
 			},
 			"mahjong_glow-1": {
-				"mahjong_glow-1": { "y": 51, "width": 110, "height": 110 }
+				"mahjong_glow-1": { "y": 51, "width": 116, "height": 126 }
 			},
 			"optical_flares": {
 				"optical_flares": { "width": 110, "height": 110 }
 			},
 			"symbol-6": {
-				"symbol-6": { "y": 51, "width": 110, "height": 110 }
+				"symbol-6": { "y": 51, "width": 94, "height": 104 }
 			},
 			"symbol-6_light_sweep/symbol-6_light_sweep_02": {
 				"symbol-6_light_sweep/symbol-6_light_sweep_03": { "y": 51, "width": 110, "height": 110 },
@@ -53,7 +53,7 @@
 				"symbol-6_light_sweep/symbol-6_light_sweep_11": { "y": 51, "width": 110, "height": 110 }
 			},
 			"symbol-6_pattern": {
-				"symbol-6_pattern": { "width": 110, "height": 110 }
+				"symbol-6_pattern": { "x": -2.75, "y": 4.5, "width": 61, "height": 79 }
 			}
 		}
 	}
@@ -79,8 +79,8 @@
 			},
 			"symbol-6": {
 				"color": [
-					{ "time": 0.2, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.8333, "color": "ffffff00" }
+					{ "time": 0.1333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "color": "ffffff00" }
 				]
 			},
 			"symbol-6_pattern": {
@@ -93,7 +93,8 @@
 			"mahjong": {
 				"scale": [
 					{ "curve": 0.029, "c3": 0.025 },
-					{ "time": 0.8333, "x": 1.4, "y": 1.4 }
+					{ "time": 0.1333, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
 				]
 			},
 			"cloud": {

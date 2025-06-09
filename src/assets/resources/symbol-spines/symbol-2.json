@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "JU2WYgkcNVDTcKrkXLaJnr9H1rE",
+	"hash": "9coJhdM1BTuQ2lhgpwEiLZwzAYA",
 	"spine": "3.8.99",
 	"x": -75,
 	"y": -82.88,
@@ -27,10 +27,10 @@
 				"cloud": { "width": 150, "height": 150 }
 			},
 			"mahjong_glow-1": {
-				"mahjong_glow-1": { "width": 110, "height": 110 }
+				"mahjong_glow-1": { "width": 116, "height": 126 }
 			},
 			"symbol-2": {
-				"symbol-2": { "width": 110, "height": 110 }
+				"symbol-2": { "width": 94, "height": 104 }
 			}
 		}
 	}
@@ -51,8 +51,8 @@
 			},
 			"symbol-2": {
 				"color": [
-					{ "time": 0.2, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.8333, "color": "ffffff00" }
+					{ "time": 0.1333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "color": "ffffff00" }
 				]
 			}
 		},
@@ -60,7 +60,8 @@
 			"mahjong": {
 				"scale": [
 					{ "curve": 0.033, "c3": 0 },
-					{ "time": 0.8333, "x": 1.4, "y": 1.4 }
+					{ "time": 0.1333, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
 				]
 			},
 			"cloud": {
