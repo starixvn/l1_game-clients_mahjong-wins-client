@@ -1,17 +1,18 @@
 {
 "skeleton": {
-	"hash": "Wy+4JvX9tjfCspFCKVZnWzyUsGg",
+	"hash": "/Y3CGUChl+JT60oHRCeJZlPrZHI",
 	"spine": "3.8.99",
-	"x": -55.06,
-	"y": -55.21,
-	"width": 110.06,
-	"height": 110.21,
+	"x": -75,
+	"y": -75,
+	"width": 150,
+	"height": 150,
 	"images": "./image/",
 	"audio": "/Users/mia.lin/@OneLab/＠Project/VN_Slot_game/Mahjong_Wins/spine"
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "mahjong", "parent": "root" },
+	{ "name": "all_null", "parent": "root" },
+	{ "name": "mahjong", "parent": "all_null" },
 	{ "name": "mahjong2", "parent": "mahjong", "y": -51 },
 	{ "name": "pattern", "parent": "mahjong2", "y": 51 },
 	{ "name": "optical_flares", "parent": "mahjong2", "y": 51 },
@@ -25,10 +26,11 @@
 	{ "name": "Ingot_sparkle6", "parent": "mahjong2", "y": 51 },
 	{ "name": "Ingot_sparkle7", "parent": "mahjong2", "y": 51 },
 	{ "name": "Ingot_sparkle8", "parent": "mahjong2", "y": 51 },
-	{ "name": "Ingot_sparkle9", "parent": "mahjong2", "y": 51 }
+	{ "name": "Ingot_sparkle9", "parent": "mahjong2", "y": 51 },
+	{ "name": "cloud", "parent": "root" }
 ],
 "slots": [
-	{ "name": "s8_bg", "bone": "root", "attachment": "s8_bg" },
+	{ "name": "s8_bg", "bone": "all_null", "attachment": "s8_bg" },
 	{ "name": "Ingot_lf.rt", "bone": "Ingot_lf.rt", "attachment": "Ingot_lf.rt" },
 	{ "name": "Ingot_starglow_lf.rt", "bone": "Ingot_lf.rt", "attachment": "Ingot_starglow_lf.rt", "blend": "additive" },
 	{ "name": "Ingot_top", "bone": "Ingot_top", "attachment": "Ingot_top" },
@@ -43,7 +45,8 @@
 	{ "name": "Ingot_sparkle5", "bone": "Ingot_sparkle5", "attachment": "Ingot_sparkle" },
 	{ "name": "Ingot_sparkle8", "bone": "Ingot_sparkle8", "attachment": "Ingot_sparkle" },
 	{ "name": "Ingot_sparkle2", "bone": "Ingot_sparkle2", "attachment": "Ingot_sparkle" },
-	{ "name": "optical_flares", "bone": "optical_flares", "attachment": "optical_flares", "blend": "additive" }
+	{ "name": "optical_flares", "bone": "optical_flares", "attachment": "optical_flares", "blend": "additive" },
+	{ "name": "cloud", "bone": "cloud", "attachment": "cloud" }
 ],
 "skins": [
 	{
@@ -96,6 +99,9 @@
 			"Ingot_top": {
 				"Ingot_top": { "x": 29.69, "rotation": -90, "width": 93, "height": 68 }
 			},
+			"cloud": {
+				"cloud": { "width": 150, "height": 150 }
+			},
 			"fu": {
 				"fu": { "y": 27.29, "width": 64, "height": 63 }
 			},
@@ -109,6 +115,274 @@
 	}
 ],
 "animations": {
+	"explode": {
+		"slots": {
+			"Ingot_sparkle": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle3": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle4": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle5": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle6": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle7": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.0333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle8": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.6333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_sparkle9": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Ingot_starglow_lf.rt": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "color": "ffffff4f", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"Ingot_starglow_top": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "color": "ffffff4f", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"cloud": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"optical_flares": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Ingot_sparkle": {
+				"rotate": [
+					{ "time": 0.4333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9, "angle": -76.93 }
+				],
+				"translate": [
+					{ "x": 29.53, "y": 13.19 }
+				],
+				"scale": [
+					{ "x": 0.5, "y": 0.5 }
+				]
+			},
+			"Ingot_sparkle2": {
+				"rotate": [
+					{ "time": 0.2667, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.7333, "angle": -38.46 }
+				],
+				"translate": [
+					{ "x": -30.02, "y": 39.52 }
+				],
+				"scale": [
+					{ "x": 0.6, "y": 0.6 }
+				]
+			},
+			"Ingot_sparkle3": {
+				"rotate": [
+					{ "time": 0.2333, "curve": 0.266, "c3": 0.618, "c4": 0.42 },
+					{ "time": 0.7, "angle": -20.6 }
+				],
+				"translate": [
+					{ "x": -34.06, "y": 4.99 }
+				],
+				"scale": [
+					{ "x": 0.5, "y": 0.5 }
+				]
+			},
+			"Ingot_sparkle4": {
+				"rotate": [
+					{ "angle": -48.13, "curve": "stepped" },
+					{ "time": 0.1667, "angle": -48.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "angle": -117.37 }
+				],
+				"translate": [
+					{ "x": 9.93, "y": 11.53 }
+				],
+				"scale": [
+					{ "x": 0.4, "y": 0.4 }
+				]
+			},
+			"Ingot_sparkle5": {
+				"rotate": [
+					{ "angle": -48.13, "curve": "stepped" },
+					{ "time": 0.1, "angle": -48.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -109.68 }
+				],
+				"translate": [
+					{ "x": 0.96, "y": 43.79 }
+				],
+				"scale": [
+					{ "x": 0.4, "y": 0.4 }
+				]
+			},
+			"Ingot_sparkle6": {
+				"rotate": [
+					{ "time": 0.4667, "curve": 0.244, "c3": 0.644, "c4": 0.58 },
+					{ "time": 0.9333, "angle": -52.81 }
+				],
+				"translate": [
+					{ "x": -12.91, "y": 20.49 }
+				],
+				"scale": [
+					{ "x": 0.6, "y": 0.6 }
+				]
+			},
+			"Ingot_sparkle7": {
+				"rotate": [
+					{ "time": 0.0333, "curve": 0.244, "c3": 0.644, "c4": 0.58 },
+					{ "time": 0.5, "angle": -52.81 }
+				],
+				"translate": [
+					{ "x": -35.66, "y": -33.57 }
+				],
+				"scale": [
+					{ "x": 0.6, "y": 0.6 }
+				]
+			},
+			"Ingot_sparkle8": {
+				"rotate": [
+					{ "angle": -48.13, "curve": "stepped" },
+					{ "time": 0.3333, "angle": -48.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": -109.68 }
+				],
+				"translate": [
+					{ "x": 27.09, "y": -11.87 }
+				],
+				"scale": [
+					{ "x": 0.3, "y": 0.3 }
+				]
+			},
+			"Ingot_sparkle9": {
+				"rotate": [
+					{ "time": 0.2333, "curve": 0.266, "c3": 0.618, "c4": 0.42 },
+					{ "time": 0.7, "angle": -20.6 }
+				],
+				"translate": [
+					{ "x": 39.38, "y": -31.37 }
+				],
+				"scale": [
+					{ "x": 0.5, "y": 0.5 }
+				]
+			},
+			"all_null": {
+				"scale": [
+					{ "curve": 0.077, "c3": 0.152 },
+					{ "time": 0.1333, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"cloud": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -12.02 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": 0.016, "c3": 0.021 },
+					{ "time": 0.1667, "x": 0.72, "y": 0.72, "curve": 0.044, "c3": 0.035 },
+					{ "time": 0.8333, "x": 0.85, "y": 0.85 }
+				]
+			}
+		}
+	},
 	"highlight": {
 		"slots": {
 			"Ingot_sparkle": {
@@ -206,6 +480,11 @@
 					{ "time": 0.2667, "color": "ffffff64", "curve": "stepped" },
 					{ "time": 0.7, "color": "ffffff64", "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.9333, "color": "ffffff00" }
+				]
+			},
+			"cloud": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
 			"optical_flares": {
@@ -494,6 +773,11 @@
 					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.5, "color": "ffffff4f", "curve": 0.25, "c3": 0.75 },
 					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"cloud": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
 			"optical_flares": {
