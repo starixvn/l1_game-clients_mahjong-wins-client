@@ -43,12 +43,12 @@
         "rotated": false,
         "offsetX": 0,
         "offsetY": 0,
-        "trimX": 1,
-        "trimY": 1,
+        "trimX": 0,
+        "trimY": 0,
         "width": 1398,
         "height": 786,
-        "rawWidth": 1400,
-        "rawHeight": 788,
+        "rawWidth": 1398,
+        "rawHeight": 786,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
@@ -82,24 +82,24 @@
             3
           ],
           "uv": [
-            1,
-            787,
-            1399,
-            787,
-            1,
-            1,
-            1399,
-            1
+            0,
+            786,
+            1398,
+            786,
+            0,
+            0,
+            1398,
+            0
           ],
           "nuv": [
-            0.0007142857142857143,
-            0.0012690355329949238,
-            0.9992857142857143,
-            0.0012690355329949238,
-            0.0007142857142857143,
-            0.998730964467005,
-            0.9992857142857143,
-            0.998730964467005
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
           ],
           "minPos": [
             -699,
@@ -127,7 +127,7 @@
   },
   "userData": {
     "type": "sprite-frame",
-    "hasAlpha": true,
+    "hasAlpha": false,
     "fixAlphaTransparencyArtifacts": false,
     "redirect": "9b5e4998-d0ca-4e99-8e8b-cab707450471@6c48a"
   }
