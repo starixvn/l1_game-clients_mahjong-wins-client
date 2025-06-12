@@ -1,570 +1,558 @@
 
 mascot.webp
-size: 1572,411
+size: 4068,877
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 beard
-  rotate: false
-  xy: 805, 16
+  rotate: true
+  xy: 3865, 157
   size: 165, 52
   orig: 165, 52
   offset: 0, 0
   index: -1
 body
-  rotate: true
-  xy: 2, 2
+  rotate: false
+  xy: 2, 74
   size: 407, 801
   orig: 407, 801
   offset: 0, 0
   index: -1
 chin
   rotate: false
-  xy: 1397, 6
+  xy: 3131, 655
   size: 163, 220
   orig: 163, 220
   offset: 0, 0
   index: -1
 eyebrow
   rotate: false
-  xy: 1253, 119
+  xy: 3919, 569
   size: 142, 93
   orig: 142, 93
   offset: 0, 0
   index: -1
 eyelid
   rotate: false
-  xy: 1253, 82
+  xy: 3919, 191
   size: 94, 35
   orig: 95, 35
   offset: 1, 0
   index: -1
 eyes
-  rotate: false
-  xy: 1251, 30
+  rotate: true
+  xy: 3865, 324
   size: 103, 41
   orig: 103, 41
   offset: 0, 0
   index: -1
 eyes_glow
   rotate: false
-  xy: 972, 7
+  xy: 305, 11
   size: 123, 61
   orig: 123, 61
   offset: 0, 0
   index: -1
-hand_L_
-  rotate: false
-  xy: 1311, 228
-  size: 199, 181
-  orig: 199, 197
-  offset: 0, 0
-  index: -1
-hand_L_claw01
-  rotate: false
-  xy: 1512, 331
-  size: 49, 78
-  orig: 49, 78
-  offset: 0, 0
-  index: -1
-hand_L_claw02
-  rotate: true
-  xy: 1097, 8
-  size: 60, 73
-  orig: 60, 73
-  offset: 0, 0
-  index: -1
-hand_L_claw03
-  rotate: true
-  xy: 1512, 275
-  size: 54, 58
-  orig: 54, 58
-  offset: 0, 0
-  index: -1
-hand_R
-  rotate: true
-  xy: 1120, 214
-  size: 195, 189
-  orig: 195, 189
-  offset: 0, 0
-  index: -1
-hand_R_arm
-  rotate: true
-  xy: 1120, 73
-  size: 139, 131
-  orig: 139, 131
-  offset: 0, 0
-  index: -1
-hand_R_claw
-  rotate: true
-  xy: 1172, 2
-  size: 69, 77
-  orig: 69, 77
-  offset: 0, 0
-  index: -1
-head
-  rotate: false
-  xy: 805, 70
-  size: 313, 339
-  orig: 313, 339
-  offset: 0, 0
-  index: -1
-
-mascot2.webp
-size: 1702,1162
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
 fire_particle/fire_particle_00
   rotate: false
-  xy: 2, 752
+  xy: 411, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_01
-  rotate: false
-  xy: 2, 342
+  rotate: true
+  xy: 726, 127
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_02
   rotate: false
-  xy: 342, 752
+  xy: 751, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_03
   rotate: false
-  xy: 342, 752
+  xy: 751, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_04
   rotate: false
-  xy: 342, 342
+  xy: 1091, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_05
   rotate: true
-  xy: 2, 2
+  xy: 1136, 127
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_06
   rotate: false
-  xy: 682, 752
+  xy: 1431, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_07
-  rotate: false
-  xy: 682, 342
+  rotate: true
+  xy: 1546, 127
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_08
-  rotate: true
-  xy: 412, 2
+  rotate: false
+  xy: 1771, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_09
-  rotate: false
-  xy: 1022, 752
+  rotate: true
+  xy: 1956, 127
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_10
   rotate: false
-  xy: 1022, 342
+  xy: 2111, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_11
   rotate: true
-  xy: 822, 2
+  xy: 2366, 127
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_12
   rotate: false
-  xy: 1362, 752
+  xy: 2451, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_13
-  rotate: false
-  xy: 1362, 342
+  rotate: true
+  xy: 2776, 127
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_14
-  rotate: true
-  xy: 1232, 2
+  rotate: false
+  xy: 2791, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
 fire_particle/fire_particle_15
-  rotate: true
-  xy: 1232, 2
+  rotate: false
+  xy: 2791, 467
   size: 338, 408
   orig: 338, 408
   offset: 0, 0
   index: -1
-
-mascot3.webp
-size: 1802,534
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+hand_L_
+  rotate: false
+  xy: 3261, 472
+  size: 199, 181
+  orig: 199, 197
+  offset: 0, 0
+  index: -1
+hand_L_claw01
+  rotate: false
+  xy: 3865, 797
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+hand_L_claw02
+  rotate: true
+  xy: 3789, 615
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+hand_L_claw03
+  rotate: false
+  xy: 3863, 538
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 3462, 472
+  size: 195, 189
+  orig: 195, 189
+  offset: 0, 0
+  index: -1
+hand_R_arm
+  rotate: true
+  xy: 3684, 3
+  size: 139, 131
+  orig: 139, 131
+  offset: 0, 0
+  index: -1
+hand_R_claw
+  rotate: true
+  xy: 123, 3
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 411, 126
+  size: 313, 339
+  orig: 313, 339
+  offset: 0, 0
+  index: -1
 wisp/wisp_00000
   rotate: true
-  xy: 124, 7
+  xy: 3865, 598
   size: 89, 45
   orig: 250, 250
   offset: 44, 14
   index: -1
 wisp/wisp_00001
-  rotate: false
-  xy: 1582, 4
+  rotate: true
+  xy: 4015, 148
   size: 78, 51
   orig: 250, 250
   offset: 42, 14
   index: -1
 wisp/wisp_00002
   rotate: true
-  xy: 1667, 44
+  xy: 3789, 538
   size: 75, 72
   orig: 250, 250
   offset: 45, 15
   index: -1
 wisp/wisp_00003
   rotate: true
-  xy: 1667, 121
+  xy: 3919, 110
   size: 79, 88
   orig: 250, 250
   offset: 50, 16
   index: -1
 wisp/wisp_00004
   rotate: false
-  xy: 1582, 57
+  xy: 3830, 689
   size: 83, 106
   orig: 250, 250
   offset: 50, 17
   index: -1
 wisp/wisp_00005
-  rotate: true
-  xy: 2, 4
+  rotate: false
+  xy: 2207, 5
   size: 92, 120
   orig: 250, 250
   offset: 45, 18
   index: -1
 wisp/wisp_00006
   rotate: false
-  xy: 911, 4
+  xy: 3730, 144
   size: 97, 128
   orig: 250, 250
   offset: 45, 21
   index: -1
 wisp/wisp_00007
   rotate: true
-  xy: 237, 4
+  xy: 3919, 228
   size: 100, 136
   orig: 250, 250
   offset: 49, 22
   index: -1
 wisp/wisp_00008
-  rotate: false
-  xy: 1543, 227
+  rotate: true
+  xy: 3916, 664
   size: 105, 146
   orig: 250, 250
   offset: 51, 22
   index: -1
 wisp/wisp_00009
-  rotate: false
-  xy: 1539, 375
+  rotate: true
+  xy: 2970, 16
   size: 109, 157
   orig: 250, 250
   offset: 54, 21
   index: -1
 wisp/wisp_00010
-  rotate: false
-  xy: 1398, 5
+  rotate: true
+  xy: 2805, 15
   size: 110, 163
   orig: 250, 250
   offset: 56, 23
   index: -1
 wisp/wisp_00011
-  rotate: false
-  xy: 1430, 363
+  rotate: true
+  xy: 3889, 429
   size: 107, 169
   orig: 250, 250
   offset: 60, 23
   index: -1
 wisp/wisp_00012
-  rotate: false
-  xy: 1311, 170
+  rotate: true
+  xy: 3186, 141
   size: 107, 178
   orig: 250, 250
   offset: 63, 22
   index: -1
 wisp/wisp_00013
-  rotate: false
-  xy: 1312, 356
+  rotate: true
+  xy: 2475, 9
   size: 116, 176
   orig: 250, 250
   offset: 63, 31
   index: -1
 wisp/wisp_00014
-  rotate: false
-  xy: 1187, 350
+  rotate: true
+  xy: 1629, 2
   size: 123, 182
   orig: 250, 250
   offset: 62, 30
   index: -1
 wisp/wisp_00015
   rotate: true
-  xy: 1010, 8
+  xy: 3540, 144
   size: 124, 188
   orig: 250, 250
   offset: 65, 30
   index: -1
 wisp/wisp_00016
-  rotate: false
-  xy: 1186, 145
+  rotate: true
+  xy: 1437, 2
   size: 123, 190
   orig: 250, 250
   offset: 69, 34
   index: -1
 wisp/wisp_00017
-  rotate: false
-  xy: 1064, 142
+  rotate: true
+  xy: 2012, 5
   size: 120, 193
   orig: 250, 250
   offset: 73, 34
   index: -1
 wisp/wisp_00018
-  rotate: false
-  xy: 941, 335
+  rotate: true
+  xy: 1813, 5
   size: 120, 197
   orig: 250, 250
   offset: 74, 32
   index: -1
 wisp/wisp_00019
-  rotate: false
-  xy: 1063, 337
+  rotate: true
+  xy: 430, 2
   size: 122, 195
   orig: 250, 250
   offset: 74, 38
   index: -1
 wisp/wisp_00020
-  rotate: false
-  xy: 939, 134
+  rotate: true
+  xy: 1237, 2
   size: 123, 198
   orig: 250, 250
   offset: 74, 37
   index: -1
 wisp/wisp_00021
-  rotate: false
-  xy: 2, 316
+  rotate: true
+  xy: 801, 2
   size: 123, 216
   orig: 250, 250
   offset: 75, 19
   index: -1
 wisp/wisp_00022
-  rotate: false
-  xy: 2, 98
+  rotate: true
+  xy: 1019, 2
   size: 123, 216
   orig: 250, 250
   offset: 76, 19
   index: -1
 wisp/wisp_00023
   rotate: false
-  xy: 127, 317
+  xy: 3186, 250
   size: 124, 215
   orig: 250, 250
   offset: 76, 19
   index: -1
 wisp/wisp_00024
   rotate: false
-  xy: 127, 106
+  xy: 3296, 666
   size: 125, 209
   orig: 250, 250
   offset: 77, 20
   index: -1
 wisp/wisp_00025
   rotate: false
-  xy: 253, 326
+  xy: 3423, 669
   size: 128, 206
   orig: 250, 250
   offset: 76, 20
   index: -1
 wisp/wisp_00026
   rotate: false
-  xy: 521, 332
+  xy: 3587, 270
   size: 133, 200
   orig: 250, 250
   offset: 74, 20
   index: -1
 wisp/wisp_00027
-  rotate: false
-  xy: 656, 333
+  rotate: true
+  xy: 3281, 2
   size: 137, 199
   orig: 250, 250
   offset: 72, 21
   index: -1
 wisp/wisp_00028
   rotate: false
-  xy: 796, 134
+  xy: 3722, 274
   size: 141, 198
   orig: 250, 250
   offset: 71, 22
   index: -1
 wisp/wisp_00029
   rotate: false
-  xy: 795, 334
+  xy: 3684, 677
   size: 144, 198
   orig: 250, 250
   offset: 69, 23
   index: -1
 wisp/wisp_00030
   rotate: false
-  xy: 660, 132
+  xy: 3653, 474
   size: 134, 199
   orig: 250, 250
   offset: 68, 23
   index: -1
 wisp/wisp_00031
-  rotate: false
-  xy: 383, 332
+  rotate: true
+  xy: 3482, 3
   size: 136, 200
   orig: 250, 250
   offset: 66, 23
   index: -1
 wisp/wisp_00032
   rotate: false
-  xy: 254, 122
+  xy: 3312, 268
   size: 136, 202
   orig: 250, 250
   offset: 66, 22
   index: -1
 wisp/wisp_00033
   rotate: false
-  xy: 392, 130
+  xy: 3450, 270
   size: 135, 200
   orig: 250, 250
   offset: 65, 23
   index: -1
 wisp/wisp_00034
   rotate: false
-  xy: 529, 130
+  xy: 3553, 675
   size: 129, 200
   orig: 250, 250
   offset: 65, 23
   index: -1
 wisp/wisp_00035
-  rotate: true
-  xy: 723, 2
+  rotate: false
+  xy: 3131, 467
   size: 128, 186
   orig: 250, 250
   offset: 65, 36
   index: -1
 wisp/wisp_00036
   rotate: true
-  xy: 549, 3
+  xy: 3366, 141
   size: 125, 172
   orig: 250, 250
   offset: 66, 49
   index: -1
 wisp/wisp_00037
-  rotate: false
-  xy: 1420, 182
+  rotate: true
+  xy: 627, 3
   size: 121, 172
   orig: 250, 250
   offset: 66, 48
   index: -1
 wisp/wisp_00038
   rotate: true
-  xy: 375, 2
+  xy: 2301, 7
   size: 118, 172
   orig: 250, 250
   offset: 66, 46
   index: -1
 wisp/wisp_00039
   rotate: true
-  xy: 1650, 419
+  xy: 2653, 12
   size: 113, 150
   orig: 250, 250
   offset: 67, 65
   index: -1
 wisp/wisp_00040
   rotate: true
-  xy: 1650, 308
+  xy: 3129, 16
   size: 109, 150
   orig: 250, 250
   offset: 68, 62
   index: -1
 wisp/wisp_00041
   rotate: true
-  xy: 1650, 202
+  xy: 3916, 771
   size: 104, 149
   orig: 250, 250
   offset: 70, 59
   index: -1
 wisp/wisp_00042
   rotate: false
-  xy: 1200, 4
+  xy: 3817, 3
   size: 97, 139
   orig: 250, 250
   offset: 72, 56
   index: -1
 wisp/wisp_00043
-  rotate: false
-  xy: 1299, 4
+  rotate: true
+  xy: 3916, 330
   size: 97, 139
   orig: 250, 250
   offset: 72, 53
   index: -1
 wisp/wisp_00044
-  rotate: false
-  xy: 1510, 31
+  rotate: true
+  xy: 2, 2
   size: 70, 119
   orig: 250, 250
   offset: 72, 50
   index: -1
 wisp/wisp_00045
-  rotate: false
-  xy: 171, 3
+  rotate: true
+  xy: 202, 8
   size: 64, 101
   orig: 250, 250
   offset: 73, 66
   index: -1
 wisp/wisp_00046
   rotate: true
-  xy: 1543, 165
+  xy: 3789, 476
   size: 60, 98
   orig: 250, 250
   offset: 73, 67
   index: -1
 wisp/wisp_00047
   rotate: true
-  xy: 1510, 152
+  xy: 3830, 847
   size: 28, 30
   orig: 250, 250
   offset: 95, 90
