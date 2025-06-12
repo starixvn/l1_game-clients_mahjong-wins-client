@@ -267,8 +267,8 @@ export const languages = {
         "you_win_free_spin": "Bạn đã thắng"
     },
     "MahjongWins": {
-        "game_icon_name": "Mahjong Wins",
-        "game_name": "Mahjong Wins"
+        "game_icon_name": "Mạt Chược Phát Tài",
+        "game_name": "Mạt Chược Phát Tài"
     }
 };
 

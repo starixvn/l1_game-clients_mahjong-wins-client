@@ -267,8 +267,8 @@ export const languages = {
         "you_win_free_spin": "คุณชนะ"
     },
     "MahjongWins": {
-        "game_icon_name": "Mahjong Wins",
-        "game_name": "Mahjong Wins"
+        "game_icon_name": "ไพ่นกกระจอก",
+        "game_name": "ไพ่นกกระจอก"
     }
 };
 
