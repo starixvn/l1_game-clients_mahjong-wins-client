@@ -1,300 +1,271 @@
-
 btn-spin.webp
-size: 2032,570
+size: 1991,554
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-arrow
-  rotate: true
-  xy: 1706, 38
-  size: 101, 78
-  orig: 102, 79
-  offset: 0, 1
-  index: -1
-arrow_blur
-  rotate: false
-  xy: 1706, 141
-  size: 101, 80
-  orig: 103, 81
-  offset: 1, 1
-  index: -1
-arrow_glow
-  rotate: true
-  xy: 1786, 32
-  size: 99, 77
-  orig: 100, 77
-  offset: 0, 0
-  index: -1
 bg_stroke/bg_stroke_00
   rotate: false
-  xy: 440, 4
+  xy: 213, 366
   size: 185, 188
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_01
-  rotate: true
-  xy: 581, 196
+  rotate: false
+  xy: 400, 366
   size: 185, 188
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_02
-  rotate: true
-  xy: 589, 385
+  rotate: false
+  xy: 587, 366
   size: 185, 188
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_03
   rotate: true
-  xy: 779, 385
+  xy: 213, 179
   size: 185, 187
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_04
-  rotate: false
-  xy: 814, 9
+  rotate: true
+  xy: 402, 179
   size: 185, 187
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_05
-  rotate: true
-  xy: 961, 198
+  rotate: false
+  xy: 591, 177
   size: 185, 187
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_06
   rotate: false
-  xy: 205, 170
+  xy: 774, 367
   size: 186, 187
   orig: 190, 190
   offset: 2, 1
   index: -1
 bg_stroke/bg_stroke_07
   rotate: false
-  xy: 213, 383
+  xy: 962, 367
   size: 186, 187
   orig: 190, 190
   offset: 2, 1
   index: -1
 bg_stroke/bg_stroke_08
   rotate: false
-  xy: 393, 194
+  xy: 1150, 367
   size: 186, 187
   orig: 190, 190
   offset: 2, 1
   index: -1
 bg_stroke/bg_stroke_09
   rotate: false
-  xy: 401, 383
+  xy: 1338, 367
   size: 186, 187
   orig: 190, 190
   offset: 2, 1
   index: -1
 bg_stroke/bg_stroke_10
-  rotate: true
-  xy: 968, 385
+  rotate: false
+  xy: 778, 178
   size: 185, 187
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_11
   rotate: false
-  xy: 1001, 9
+  xy: 965, 178
   size: 185, 187
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_12
-  rotate: true
-  xy: 1150, 198
+  rotate: false
+  xy: 1152, 178
   size: 185, 187
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_13
-  rotate: false
-  xy: 627, 6
+  rotate: true
+  xy: 1526, 369
   size: 185, 188
   orig: 190, 190
   offset: 3, 1
   index: -1
 bg_stroke/bg_stroke_14
   rotate: true
-  xy: 771, 198
+  xy: 1716, 369
   size: 185, 188
   orig: 190, 190
   offset: 3, 1
   index: -1
 circle_bg
   rotate: false
-  xy: 1343, 395
+  xy: 205, 0
   size: 174, 175
   orig: 190, 190
   offset: 8, 8
   index: -1
 circle_glow
   rotate: false
-  xy: 1157, 386
+  xy: 1339, 181
   size: 184, 184
   orig: 186, 186
   offset: 1, 1
   index: -1
 circle_shine
   rotate: false
-  xy: 0, 359
+  xy: 0, 343
   size: 211, 211
   orig: 211, 211
   offset: 0, 0
   index: -1
 disable
   rotate: false
-  xy: 1362, 27
+  xy: 381, 0
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 extra-spin_particular/extra-spin_particular_00
-  rotate: true
-  xy: 167, 11
+  rotate: false
+  xy: 1525, 181
   size: 16, 15
   orig: 190, 190
   offset: 87, 88
   index: -1
 extra-spin_particular/extra-spin_particular_01
-  rotate: true
-  xy: 139, 0
+  rotate: false
+  xy: 739, 149
   size: 27, 26
   orig: 190, 190
   offset: 81, 83
   index: -1
 extra-spin_particular/extra-spin_particular_02
   rotate: false
-  xy: 1809, 181
+  xy: 1296, 136
   size: 41, 40
   orig: 190, 190
   offset: 73, 75
   index: -1
 extra-spin_particular/extra-spin_particular_03
-  rotate: true
-  xy: 1963, 106
+  rotate: false
+  xy: 1879, 204
   size: 55, 56
   orig: 190, 190
   offset: 65, 66
   index: -1
 extra-spin_particular/extra-spin_particular_04
   rotate: false
-  xy: 1963, 163
+  xy: 120, 64
   size: 69, 71
   orig: 190, 190
   offset: 57, 58
   index: -1
 extra-spin_particular/extra-spin_particular_05
-  rotate: true
-  xy: 1865, 46
+  rotate: false
+  xy: 1906, 465
   size: 85, 89
   orig: 190, 190
   offset: 48, 49
   index: -1
 extra-spin_particular/extra-spin_particular_06
-  rotate: true
-  xy: 1856, 133
+  rotate: false
+  xy: 1879, 262
   size: 101, 105
   orig: 190, 190
   offset: 39, 41
   index: -1
 extra-spin_particular/extra-spin_particular_07
   rotate: false
-  xy: 139, 29
+  xy: 0, 13
   size: 118, 122
   orig: 190, 190
   offset: 29, 32
   index: -1
 extra-spin_particular/extra-spin_particular_08
   rotate: false
-  xy: 0, 13
+  xy: 1833, 60
   size: 137, 138
   orig: 190, 190
   offset: 19, 24
   index: -1
 extra-spin_particular/extra-spin_particular_09
   rotate: true
-  xy: 1877, 413
+  xy: 1676, 39
   size: 157, 155
   orig: 190, 190
   offset: 8, 15
   index: -1
 extra-spin_particular/extra-spin_particular_10
   rotate: true
-  xy: 1856, 236
+  xy: 1706, 200
   size: 167, 171
   orig: 190, 190
   offset: 4, 7
   index: -1
 extra-spin_particular/extra-spin_particular_11
   rotate: false
-  xy: 1538, 38
+  xy: 1508, 1
   size: 166, 178
   orig: 190, 190
   offset: 4, 3
   index: -1
 extra-spin_particular/extra-spin_particular_12
-  rotate: true
-  xy: 259, 1
+  rotate: false
+  xy: 1339, 0
   size: 167, 179
   orig: 190, 190
   offset: 3, 3
   index: -1
 extra-spin_particular/extra-spin_particular_13
-  rotate: true
-  xy: 1699, 405
+  rotate: false
+  xy: 947, 0
   size: 165, 176
   orig: 190, 190
   offset: 4, 4
   index: -1
 extra-spin_particular/extra-spin_particular_14
   rotate: false
-  xy: 1687, 223
+  xy: 778, 0
   size: 167, 176
   orig: 190, 190
   offset: 3, 4
   index: -1
 extra-spin_particular/extra-spin_particular_15
   rotate: true
-  xy: 1519, 401
+  xy: 1526, 198
   size: 169, 178
   orig: 190, 190
   offset: 2, 3
   index: -1
 extra-spin_particular/extra-spin_particular_16
-  rotate: false
-  xy: 1339, 204
+  rotate: true
+  xy: 557, 5
   size: 170, 180
   orig: 190, 190
   offset: 1, 2
   index: -1
 extra-spin_particular/extra-spin_particular_17
-  rotate: false
-  xy: 1188, 16
+  rotate: true
+  xy: 1114, 4
   size: 172, 180
   orig: 190, 190
   offset: 0, 2
   index: -1
 hover_circle
   rotate: false
-  xy: 0, 153
+  xy: 0, 137
   size: 203, 204
   orig: 211, 211
   offset: 6, 4
-  index: -1
-spin_btn
-  rotate: false
-  xy: 1511, 218
-  size: 174, 175
-  orig: 190, 190
-  offset: 8, 8
   index: -1
