@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "hVYvvqJujzssUr0WyN51qxbEjuo", "spine": "3.8.99", "images": "./image/", "audio": "" },
+"skeleton": { "hash": "WUlwMUX7p/qqRVvHxqN7Dg2NSzg", "spine": "3.8.99", "images": "./image/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "arrow", "parent": "root", "color": "ff00f6ff" },
@@ -47,7 +47,7 @@
 				"circle_shine": { "width": 211, "height": 211 }
 			},
 			"disable": {
-				"disable": { "width": 174, "height": 175 }
+				"disable": { "width": 190, "height": 190 }
 			},
 			"extra-spin_particular/extra-spin_particular_00": {
 				"extra-spin_particular/extra-spin_particular_00": { "y": -60.61, "width": 190, "height": 190 },
@@ -342,8 +342,9 @@
 			"circle_bg": {
 				"rotate": [
 					{},
-					{ "time": 0.5, "angle": 120 },
-					{ "time": 1, "angle": -100 }
+					{ "time": 0.3333, "angle": -120 },
+					{ "time": 0.6667, "angle": 120 },
+					{ "time": 1 }
 				],
 				"scale": [
 					{ "curve": 0.164, "c3": 0.381 },

@@ -133,8 +133,8 @@ disable
   rotate: false
   xy: 381, 0
   size: 174, 175
-  orig: 174, 175
-  offset: 0, 0
+  orig: 190, 190
+  offset: 8, 8
   index: -1
 extra-spin_particular/extra-spin_particular_00
   rotate: false
