@@ -11,9 +11,9 @@ describe("settings", () => {
     it("should have data as expected", () => {
         // Assert
         expect(settings).toStrictEqual({
-            id: 121,
-            name: "WukongsRevenge",
-            tolgeeNamespaces: ["WukongsRevenge", "cascadingslot"],
+            id: 127,
+            name: "MahjongWins",
+            tolgeeNamespaces: ["MahjongWins", "cascadingslot"],
             durations: {
                 wholeRound: 14,
                 lockingBet: 3,
