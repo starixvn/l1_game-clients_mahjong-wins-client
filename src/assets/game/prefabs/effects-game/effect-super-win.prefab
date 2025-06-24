@@ -229,7 +229,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -27,
+      "y": -20,
       "z": 0
     },
     "_lrot": {
@@ -275,7 +275,7 @@
     "_anchorPoint": {
       "__type__": "cc.Vec2",
       "x": 0.5,
-      "y": 0.5
+      "y": 0.4
     },
     "_id": ""
   },
@@ -337,8 +337,6 @@
       "__id__": 0
     },
     "fileId": "8eozsjIsxP24baVpBZIcx9",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
