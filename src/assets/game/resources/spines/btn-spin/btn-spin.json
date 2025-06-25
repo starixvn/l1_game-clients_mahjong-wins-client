@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "WUlwMUX7p/qqRVvHxqN7Dg2NSzg", "spine": "3.8.99", "images": "./image/", "audio": "" },
+"skeleton": { "hash": "TOf/arrNmO8eCkntj8DlNQNYSe4", "spine": "3.8.99", "images": "./image/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "arrow", "parent": "root", "color": "ff00f6ff" },
@@ -41,7 +41,7 @@
 				"circle_bg": { "width": 190, "height": 190 }
 			},
 			"circle_glow": {
-				"circle_glow": { "width": 186, "height": 186 }
+				"circle_glow": { "width": 180, "height": 180 }
 			},
 			"circle_shine": {
 				"circle_shine": { "width": 211, "height": 211 }
@@ -345,11 +345,6 @@
 					{ "time": 0.3333, "angle": -120 },
 					{ "time": 0.6667, "angle": 120 },
 					{ "time": 1 }
-				],
-				"scale": [
-					{ "curve": 0.164, "c3": 0.381 },
-					{ "time": 0.1, "x": 1.05, "y": 1.05, "curve": 0.164, "c3": 0.381 },
-					{ "time": 0.2 }
 				]
 			},
 			"circle_glow": {

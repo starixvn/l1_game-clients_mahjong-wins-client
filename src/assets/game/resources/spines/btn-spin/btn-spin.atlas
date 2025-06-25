@@ -110,17 +110,17 @@ bg_stroke/bg_stroke_14
   index: -1
 circle_bg
   rotate: false
-  xy: 205, 0
-  size: 174, 175
+  xy: 778, 0
+  size: 176, 176
   orig: 190, 190
-  offset: 8, 8
+  offset: 7, 7
   index: -1
 circle_glow
   rotate: false
-  xy: 1339, 181
-  size: 184, 184
-  orig: 186, 186
-  offset: 1, 1
+  xy: 956, 0
+  size: 176, 176
+  orig: 180, 180
+  offset: 2, 2
   index: -1
 circle_shine
   rotate: false
@@ -131,35 +131,35 @@ circle_shine
   index: -1
 disable
   rotate: false
-  xy: 381, 0
-  size: 174, 175
+  xy: 1134, 0
+  size: 176, 176
   orig: 190, 190
-  offset: 8, 8
+  offset: 7, 7
   index: -1
 extra-spin_particular/extra-spin_particular_00
   rotate: false
-  xy: 1525, 181
+  xy: 1649, 13
   size: 16, 15
   orig: 190, 190
   offset: 87, 88
   index: -1
 extra-spin_particular/extra-spin_particular_01
   rotate: false
-  xy: 739, 149
+  xy: 748, 149
   size: 27, 26
   orig: 190, 190
   offset: 81, 83
   index: -1
 extra-spin_particular/extra-spin_particular_02
   rotate: false
-  xy: 1296, 136
+  xy: 120, 22
   size: 41, 40
   orig: 190, 190
   offset: 73, 75
   index: -1
 extra-spin_particular/extra-spin_particular_03
   rotate: false
-  xy: 1879, 204
+  xy: 1906, 407
   size: 55, 56
   orig: 190, 190
   offset: 65, 66
@@ -180,7 +180,7 @@ extra-spin_particular/extra-spin_particular_05
   index: -1
 extra-spin_particular/extra-spin_particular_06
   rotate: false
-  xy: 1879, 262
+  xy: 1806, 89
   size: 101, 105
   orig: 190, 190
   offset: 39, 41
@@ -194,70 +194,70 @@ extra-spin_particular/extra-spin_particular_07
   index: -1
 extra-spin_particular/extra-spin_particular_08
   rotate: false
-  xy: 1833, 60
+  xy: 1849, 229
   size: 137, 138
   orig: 190, 190
   offset: 19, 24
   index: -1
 extra-spin_particular/extra-spin_particular_09
   rotate: true
-  xy: 1676, 39
+  xy: 1649, 30
   size: 157, 155
   orig: 190, 190
   offset: 8, 15
   index: -1
 extra-spin_particular/extra-spin_particular_10
-  rotate: true
-  xy: 1706, 200
+  rotate: false
+  xy: 1680, 196
   size: 167, 171
   orig: 190, 190
   offset: 4, 7
   index: -1
 extra-spin_particular/extra-spin_particular_11
   rotate: false
-  xy: 1508, 1
+  xy: 1481, 5
   size: 166, 178
   orig: 190, 190
   offset: 4, 3
   index: -1
 extra-spin_particular/extra-spin_particular_12
-  rotate: false
-  xy: 1339, 0
+  rotate: true
+  xy: 567, 8
   size: 167, 179
   orig: 190, 190
   offset: 3, 3
   index: -1
 extra-spin_particular/extra-spin_particular_13
   rotate: false
-  xy: 947, 0
+  xy: 1513, 189
   size: 165, 176
   orig: 190, 190
   offset: 4, 4
   index: -1
 extra-spin_particular/extra-spin_particular_14
   rotate: false
-  xy: 778, 0
+  xy: 1312, 0
   size: 167, 176
   orig: 190, 190
   offset: 3, 4
   index: -1
 extra-spin_particular/extra-spin_particular_15
   rotate: true
-  xy: 1526, 198
+  xy: 387, 8
   size: 169, 178
   orig: 190, 190
   offset: 2, 3
   index: -1
 extra-spin_particular/extra-spin_particular_16
   rotate: true
-  xy: 557, 5
+  xy: 205, 7
   size: 170, 180
   orig: 190, 190
   offset: 1, 2
   index: -1
 extra-spin_particular/extra-spin_particular_17
-  rotate: true
-  xy: 1114, 4
+  rotate: false
+  xy: 1339, 185
   size: 172, 180
   orig: 190, 190
   offset: 0, 2
