@@ -6,7 +6,8 @@
         "vi": "Mạt Chược Phát Tài",
         "zh_cn": "麻将赢家",
         "zh_tw": "麻將贏家",
-        "ja": "Mahjong Wins"
+        "ja": "Mahjong Wins",
+        "es": "Mahjong Wins"
     },
     "gameNames": {
         "en": "Mahjong Wins",
@@ -15,6 +16,7 @@
         "vi": "Mạt Chược Phát Tài",
         "zh_cn": "麻将赢家",
         "zh_tw": "麻將贏家",
-        "ja": "Mahjong Wins"
+        "ja": "麻雀で勝利！",
+        "es": "Mahjong Wins"
     }
 }
