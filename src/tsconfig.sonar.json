@@ -22,6 +22,9 @@
             ],
             "sc-user-service-client/dist/*": [
                 "./node_modules/sc-user-service-client/dist/*"
+            ],
+            "socket.io-client/dist/*": [
+                "./node_modules/socket.io-client/dist/*"
             ]
         }
     }
