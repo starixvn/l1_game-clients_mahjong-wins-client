@@ -26,7 +26,7 @@ describe("settings", () => {
             },
             isMiniGame: false,
             numberOfRoundHistory: 11,
-            observerNamespace: "WukongsRevenge",
+            observerNamespace: "MahjongWins",
             validateBalanceWhenBet: true,
         });
     });
