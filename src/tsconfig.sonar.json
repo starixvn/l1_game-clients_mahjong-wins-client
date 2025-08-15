@@ -25,6 +25,9 @@
             ],
             "socket.io-client/dist/*": [
                 "./node_modules/socket.io-client/dist/*"
+            ],
+            "db://shared-common-slot/*": [
+                "./extensions/shared-common-slot/assets/*"
             ]
         }
     }

@@ -1,22 +1,30 @@
 {
     "lobbyNames": {
         "en": "Mahjong Wins",
+        "es": "Mahjong Wins",
+        "fil_ph": "Mahjong Wins",
         "id": "Mahjong Wins",
+        "ja": "Mahjong Wins",
+        "ko": "마작 승리",
+        "pt_br": "Vitórias de Mahjong",
         "th": "ไพ่นกกระจอก",
+        "tr": "Mahjong Kazançları",
         "vi": "Mạt Chược Phát Tài",
         "zh_cn": "麻将赢家",
-        "zh_tw": "麻將贏家",
-        "ja": "Mahjong Wins",
-        "es": "Mahjong Wins"
+        "zh_tw": "麻將贏家"
     },
     "gameNames": {
         "en": "Mahjong Wins",
+        "es": "Mahjong Wins",
+        "fil_ph": "Mahjong Wins",
         "id": "Mahjong Wins",
+        "ja": "Mahjong Wins",
+        "ko": "마작 승리",
+        "pt_br": "Vitórias de Mahjong",
         "th": "ไพ่นกกระจอก",
+        "tr": "Mahjong Kazançları",
         "vi": "Mạt Chược Phát Tài",
         "zh_cn": "麻将赢家",
-        "zh_tw": "麻將贏家",
-        "ja": "Mahjong Wins",
-        "es": "Mahjong Wins"
+        "zh_tw": "麻將贏家"
     }
 }
